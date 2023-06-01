@@ -1,0 +1,3912 @@
+# Translation of Plugins - MailPoet &#8211; emails and newsletters in WordPress - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - MailPoet &#8211; emails and newsletters in WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-16 11:26:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - MailPoet &#8211; emails and newsletters in WordPress - Stable (latest release)\n"
+
+#: lib/Automation/Integrations/WooCommerce/Triggers/OrderStatusChangedTrigger.php:43
+#: assets/dist/js/automation_editor.js:1
+msgid "Order status changed"
+msgstr "Beställningsstatus ändrad"
+
+#: lib/Automation/Integrations/WooCommerce/Subjects/CustomerSubject.php:24
+msgid "WooCommerce customer"
+msgstr "WooCommerce-kund"
+
+#: lib/Newsletter/Renderer/Blocks/Coupon.php:34
+#: lib/WooCommerce/CouponPreProcessor.php:68
+msgid "WooCommerce is not active"
+msgstr "WooCommerce är inte aktivt"
+
+#: lib/Form/Block/BlockRendererHelper.php:278
+msgid "This value should be a valid url."
+msgstr "Detta värde ska vara en giltig URL."
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:73
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:92
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:68
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:89
+msgid "minute(s)"
+msgstr "minut/minuter"
+
+#: lib/Form/Block/BlockRendererHelper.php:288
+msgid "This value seems to be invalid."
+msgstr "Detta värde verkar vara ogiltigt."
+
+#: lib/Form/Block/BlockRendererHelper.php:284
+msgid "This value should be digits."
+msgstr "Detta värde ska vara siffror."
+
+#: lib/Form/Block/BlockRendererHelper.php:280
+msgid "This value should be a valid number."
+msgstr "Detta värde ska vara ett giltigt nummer."
+
+#: lib/Subscription/CaptchaFormRenderer.php:129
+msgid "CAPTCHA"
+msgstr "CAPTCHA"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:131
+msgid "Homepage URL"
+msgstr "Startsidans URL"
+
+#: lib/API/JSON/v1/Settings.php:195
+msgid "Setting doesn't exist."
+msgstr "Inställning finns inte."
+
+#: lib/Subscription/CaptchaFormRenderer.php:131
+msgid "Reload CAPTCHA"
+msgstr "Ladda om CAPTCHA"
+
+#: lib/Services/Bridge/API.php:386
+msgid "This domain was already added to the list."
+msgstr "Denna domän har redan lagts till i listan."
+
+#: lib/Services/Bridge/API.php:384
+msgid "Invalid domain. Please enter a valid domain name."
+msgstr "Ogiltig domän. Ange ett giltigt domännamn."
+
+#: lib/Services/Bridge/API.php:380
+msgid "Domain not found."
+msgstr "Domän hittades inte."
+
+#: lib/Services/Bridge/API.php:376
+msgid "Invalid email."
+msgstr "Ogiltig e-post."
+
+#: lib/Services/Bridge/API.php:368
+msgid "Insufficient privileges."
+msgstr "Otillräckliga behörigheter."
+
+#: lib/Services/Bridge/API.php:366
+msgid "No valid API key provided."
+msgstr "Ingen giltig API-nyckel angavs."
+
+#: lib/Services/Bridge/API.php:360
+msgid "The email address is not authorized."
+msgstr "E-postadressen är inte auktoriserad."
+
+#: lib/Subscription/CaptchaFormRenderer.php:132
+msgid "Play CAPTCHA"
+msgstr "Spela CAPTCHA"
+
+#: lib/Services/Bridge/API.php:378
+msgid "This email was already added to the list."
+msgstr "Denna e-post har redan lagts till i listan."
+
+#: lib/Services/Bridge/API.php:358
+msgid "Key is valid, but the action is forbidden."
+msgstr "Nyckel är giltig, men åtgärden är förbjuden."
+
+#: lib/API/JSON/v1/Tags.php:26
+msgid "A tag needs to have a name."
+msgstr "En etikett måste ha ett namn."
+
+#: lib/Util/Notices/DisabledMailFunctionNotice.php:142
+msgid "Connect MailPoet"
+msgstr "Anslut Mailpoet"
+
+#: lib/Config/Menu.php:221 lib/Config/Menu.php:222
+msgid "Home"
+msgstr "Hem"
+
+#: lib/Util/Notices/DisabledMailFunctionNotice.php:125
+msgid "Get ready to send your first campaign."
+msgstr "Gör dig klar för din första kampanj."
+
+#: lib/Automation/Engine/Storage/AutomationTemplateStorage.php:172
+msgid "Thank loyal customers"
+msgstr "Tacka lojala kunder"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:119
+msgid "Site title"
+msgstr "Webbplatsrubrik"
+
+#: lib/Config/Hooks.php:471
+msgid "Give feedback"
+msgstr "Ge feedback"
+
+#. translators: %s is the name of the category.
+#. translators: %s is the name of the products.
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:61
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:82
+msgid "after a purchase"
+msgstr "efter ett köp"
+
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:88
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:64
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:85
+#: assets/dist/js/admin.js:2
+msgid "immediately"
+msgstr "omedelbart"
+
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:81
+msgid "after the first purchase"
+msgstr "efter det första köpet"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:85
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:104
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:80
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:101
+msgid "week(s)"
+msgstr "vecka/veckor"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:81
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:100
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:76
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:97
+msgid "day(s)"
+msgstr "dag/dagar"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:77
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:96
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:72
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:93
+msgid "hour(s)"
+msgstr "timme/timmar"
+
+#: lib/API/MP/v1/Segments.php:84
+msgid "The list couldn’t be updated in the database"
+msgstr "Listan kunde inte uppdateras i databasen"
+
+#: lib/API/MP/v1/Segments.php:53
+msgid "The list couldn’t be created in the database"
+msgstr "Listan kunde inte skapas i databasen"
+
+#: lib/Settings/SettingsController.php:73
+msgid "Confirm your subscription to [site:title]"
+msgstr "Bekräfta din prenumeration på [site:title]"
+
+#: lib/API/MP/v1/Segments.php:144
+msgid "List id is required."
+msgstr "List-ID är obligatoriskt."
+
+#: lib/AdminPages/Pages/AutomationEditor.php:71
+msgid "Automation not found."
+msgstr "Automatisering hittades inte."
+
+#: lib/Config/Menu.php:490 lib/Config/Menu.php:492
+#: assets/dist/js/automation.js:9
+msgid "Automations"
+msgstr "Automatiseringar"
+
+#: lib/Config/Menu.php:479
+msgid "Logs"
+msgstr "Loggar"
+
+#: lib/Config/Menu.php:469
+msgid "Experimental Features"
+msgstr "Experimentella funktioner"
+
+#: lib/Automation/Engine/Exceptions/Exception.php:30
+#: lib/Automation/Engine/Validation/AutomationRules/ValidStepRule.php:67
+msgid "Unknown error."
+msgstr "Okänt fel."
+
+#: lib/Automation/Engine/Validation/AutomationRules/ValidStepRule.php:134
+msgid "Some steps are not valid"
+msgstr "Några steg är inte giltiga"
+
+#: lib/Automation/Engine/Validation/AutomationRules/ValidStepRule.php:113
+msgid "This value is not an IP address."
+msgstr "Detta värde är inte en IP-adress."
+
+#: lib/Automation/Engine/Validation/AutomationRules/ValidStepRule.php:111
+msgid "This value is not an email address."
+msgstr "Detta värde är inte en e-postadress."
+
+#: lib/Automation/Engine/Validation/AutomationRules/ValidStepRule.php:109
+msgid "This value is not a date."
+msgstr "Detta värde är inte ett datum."
+
+#: lib/Automation/Engine/Validation/AutomationRules/ValidStepRule.php:99
+msgid "This value is too long."
+msgstr "Detta värde är för långt."
+
+#: lib/Automation/Engine/Validation/AutomationRules/ValidStepRule.php:97
+msgid "This value is not long enough."
+msgstr "Detta värde är inte tillräckligt långt."
+
+#: lib/Automation/Engine/Validation/AutomationRules/ValidStepRule.php:79
+msgid "This is a required field."
+msgstr "Detta är ett obligatoriskt fält."
+
+#: lib/Automation/Integrations/Core/Actions/DelayAction.php:33
+#: assets/dist/js/automation_editor.js:1
+msgctxt "noun"
+msgid "Delay"
+msgstr "Fördröj"
+
+#: lib/Automation/Integrations/MailPoet/Subjects/SubscriberSubject.php:52
+msgid "MailPoet subscriber"
+msgstr "MailPoet-prenumerant"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:117
+#: assets/dist/js/commons.js:9
+msgid "Site"
+msgstr "Webbplats"
+
+#: lib/Automation/Integrations/MailPoet/Triggers/SomeoneSubscribesTrigger.php:46
+#: assets/dist/js/automation_editor.js:1
+msgid "Someone subscribes"
+msgstr "Någon prenumererar"
+
+#: lib/Config/Hooks.php:487
+msgid "View MailPoet settings"
+msgstr "Visa MailPoet-inställningar"
+
+#: lib/Subscribers/SubscriberListingRepository.php:321
+msgid "All Tags"
+msgstr "Alla etiketter"
+
+#: lib/Automation/Integrations/MailPoet/Actions/SendEmailAction.php:96
+#: assets/dist/js/admin.js:2 assets/dist/js/automation_editor.js:1
+msgid "Subject"
+msgstr "Ämne"
+
+#. translators: %s is the error message.
+#: lib/Automation/Engine/Exceptions.php:52
+msgid "Database error: %s"
+msgstr "Databasfel: %s"
+
+#. translators: %s is the status.
+#: lib/Automation/Engine/Builder/UpdateAutomationController.php:122
+msgid "Invalid status: %s"
+msgstr "Ogiltig status: %s"
+
+#. translators: %s is the name of the custom field.
+#: lib/Subscribers/RequiredCustomFieldValidator.php:34
+msgid "Missing value for custom field \"%s\""
+msgstr "Saknar värde för anpassat fält ”%s”"
+
+#: lib/Form/Block/BlockRendererHelper.php:40
+#: lib/Form/Block/BlockRendererHelper.php:276
+msgid "This value should be a valid email."
+msgstr "Detta värde ska vara en giltig e-post."
+
+#. translators: %d is the ID.
+#: lib/Automation/Integrations/MailPoet/Subjects/SegmentSubject.php:52
+msgid "Segment with ID '%d' not found."
+msgstr "Segment med ID '%d' hittades inte."
+
+#. translators: %d is the ID.
+#: lib/Automation/Integrations/MailPoet/Subjects/SubscriberSubject.php:66
+msgid "Subscriber with ID '%d' not found."
+msgstr "Prenumerant med ID '%d' hittades inte."
+
+#. translators: %d is the ID of the segment
+#: lib/API/MP/v1/Subscribers.php:428
+msgid "Can't unsubscribe from a list with ID %d."
+msgstr "Kan inte avsluta prenumeration från en lista med ID %d."
+
+#. translators: %d is the ID of the segment
+#: lib/API/MP/v1/Subscribers.php:425
+msgid "Can't subscribe to a list with ID %d."
+msgstr "Kan inte prenumerera på en lista med ID %d."
+
+#. translators: %s is an error message.
+#: lib/API/MP/v1/Subscribers.php:146
+msgid "Failed to add subscriber: %s"
+msgstr "Misslyckades att lägga till prenumerant: %s"
+
+#: lib/Automation/Integrations/MailPoet/Actions/SendEmailAction.php:82
+#: lib/Automation/Integrations/MailPoet/Actions/SendEmailAction.php:95
+#: assets/dist/js/automation_editor.js:1
+msgid "Send email"
+msgstr "Skicka e-post"
+
+#: lib/AdminPages/Pages/Help.php:69 lib/Helpscout/Beacon.php:74
+msgid "Can‘t generate cron URL."
+msgstr "Kan inte generera cron-URL."
+
+#: lib/Config/AccessControl.php:88
+msgid "Manage automations"
+msgstr "Hantera automatisering"
+
+#: lib/Newsletter/Sending/ScheduledTaskSubscribersListingRepository.php:61
+msgid "Failed"
+msgstr "Misslyckades"
+
+#. translators: %1$s is the current parameter and %2$s a comma-separated list
+#. of the allowed types.
+#: lib/Validator/Validator.php:208
+msgid "%1$s is not of type %2$s."
+msgstr "%1$s är inte av typen %2$s."
+
+#: lib/Newsletter/Sending/ScheduledTaskSubscribersListingRepository.php:66
+msgid "Unprocessed"
+msgstr "Obearbetad"
+
+#: lib/Automation/Integrations/MailPoet/Subjects/SubscriberSubject.php:77
+msgid "Subscriber email"
+msgstr "E-postadress för prenumerant"
+
+#: lib/Automation/Integrations/MailPoet/Subjects/SubscriberSubject.php:109
+msgid "Subscriber status"
+msgstr "Prenumerationsstatus"
+
+#: lib/Config/Menu.php:443 lib/Config/Menu.php:444 assets/dist/js/admin.js:2
+#: assets/dist/js/commons.js:9
+msgid "Upgrade"
+msgstr "Uppgradera"
+
+#: lib/Twig/Functions.php:310
+msgid "Average"
+msgstr "Genomsnittlig"
+
+#: lib/Twig/Functions.php:308 assets/dist/js/commons.js:9
+msgid "Good"
+msgstr "Bra"
+
+#: lib/Twig/Functions.php:306 assets/dist/js/commons.js:9
+msgid "Excellent"
+msgstr "Utmärkt"
+
+#: lib/API/MP/v1/Subscribers.php:364
+msgid "A subscriber is required."
+msgstr "En prenumerant är obligatoriskt."
+
+#: lib/API/JSON/v1/DynamicSegments.php:184
+msgid "Please select a type for the comparison."
+msgstr "Välj en typ för jämförelsen."
+
+#: lib/Form/Widget.php:157 lib/PostEditorBlocks/SubscriptionFormBlock.php:65
+msgid "inactive"
+msgstr "inaktiv"
+
+#: lib/Config/PopulatorData/Templates/ConfirmInterestBeforeDeactivation.php:105
+#: lib/Config/PopulatorData/Templates/ConfirmInterestOrUnsubscribe.php:108
+msgid "Yes, keep me subscribed!"
+msgstr "Ja, jag vill fortsätta prenumerera!"
+
+#: lib/Config/PopulatorData/Templates/ConfirmInterestOrUnsubscribe.php:23
+msgid "Confirm your interest or unsubscribe"
+msgstr "Bekräfta att du vill avsluta prenumeration"
+
+#: lib/Config/PopulatorData/Templates/ConfirmInterestBeforeDeactivation.php:126
+msgid "If you're no longer interested, that's completely fine. You don't need to take any action. Our system will automatically unsubscribe you soon from all of our future content."
+msgstr "Om du inte längre är intresserad är det helt okej. Du behöver inte vidta några åtgärder. Vårt system kommer automatiskt att avsluta din prenumeration inom kort från allt vårt framtida innehåll."
+
+#: lib/Config/PopulatorData/Templates/ConfirmInterestBeforeDeactivation.php:162
+#: lib/Config/PopulatorData/Templates/ConfirmInterestOrUnsubscribe.php:161
+msgid "The MailPoet Team"
+msgstr "MailPoet-teamet"
+
+#: lib/Config/PopulatorData/Templates/ConfirmInterestBeforeDeactivation.php:23
+msgid "Confirm interest before deactivation"
+msgstr "Bekräfta intresse innan inaktivering"
+
+#: lib/Newsletter/NewsletterValidator.php:74 assets/dist/js/admin.js:2
+#: assets/dist/js/newsletter_editor.js:2
+msgid "A re-engagement email must include a link with [link:subscription_re_engage_url] shortcode."
+msgstr "Ett e-postmeddelande om återengagemang måste innehålla en länk med kortkoden [link:subscription_re_engage_url]."
+
+#: lib/Util/Notices/BlackFridayNotice.php:41
+msgid "Shop Now"
+msgstr "Handla nu"
+
+#: lib/API/JSON/v1/Subscribers.php:234 lib/API/JSON/v1/Subscribers.php:239
+msgid "There was a problem with your sending method. Please check if your sending method is properly configured."
+msgstr "Det var ett problem med din sändningsmetod. Kontrollera om din sändningsmetod är korrekt konfigurerad."
+
+#: lib/Subscription/Pages.php:409
+msgid "Thank you for letting us know!"
+msgstr "Tack för att du berättar!"
+
+#: lib/Subscription/Pages.php:463
+msgid "We appreciate your continued interest in our updates. Expect to hear from us again soon!"
+msgstr "Vi uppskattar ditt fortsatta intresse för våra uppdateringar. Räkna med att höra från oss snart igen!"
+
+#: lib/Newsletter/NewsletterValidator.php:50 assets/dist/js/admin.js:2
+#: assets/dist/js/newsletter_editor.js:2
+msgid "All emails must include an \"Unsubscribe\" link. Add a footer widget to your email to continue."
+msgstr "Alla e-postmeddelanden måste innehålla en länk för ”Avsluta prenumeration”.  Lägg till en sidfotswidget i din e-post för att fortsätta."
+
+#: lib/Newsletter/NewsletterValidator.php:55 assets/dist/js/admin.js:2
+#: assets/dist/js/newsletter_editor.js:2
+msgid "Poet, please add prose to your masterpiece before you send it to your followers."
+msgstr "Poet, lägg till prosa till ditt mästerverk innan du skickar det till dina följare."
+
+#: lib/Util/Notices/UnauthorizedEmailNotice.php:75
+msgid "Use a different email address"
+msgstr "Använd en annan e-postadress"
+
+#: lib/Util/Notices/UnauthorizedEmailNotice.php:70
+msgid "Authorize this email address"
+msgstr "Auktorisera denna e-postadress"
+
+#: lib/Form/Block/BlockRendererHelper.php:46
+msgid "Addresses in names are not permitted, please add your name instead."
+msgstr "Adresser i namn är inte tillåtet, lägg till ditt namn istället."
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterClicksExporter.php:35
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterOpensExporter.php:31
+msgid "User-agent"
+msgstr "Användaragent"
+
+#. translators: %1$s is a comma-seperated list of forms for which the segment
+#. is used.
+#: lib/API/JSON/v1/Segments.php:205 lib/API/MP/v1/Segments.php:118
+msgctxt "Alert shown when trying to delete segment, when it is assigned to a form."
+msgid "List cannot be deleted because it’s used for %1$s form"
+msgid_plural "List cannot be deleted because it’s used for %1$s forms"
+msgstr[0] "Lista kan inte tas bort eftersom den används för %1$s formulär"
+msgstr[1] "Lista kan inte tas bort eftersom den används för %1$s formulär"
+
+#: lib/API/JSON/v1/DynamicSegments.php:170
+msgid "Please select a country."
+msgstr "Välj ett land."
+
+#: lib/API/JSON/v1/DynamicSegments.php:174
+msgid "Please fill all required values."
+msgstr "Fyll i alla obligatoriska värden."
+
+#: lib/API/JSON/v1/DynamicSegments.php:182
+msgid "Please add at least one condition for filtering."
+msgstr "Lägg till minst ett villkor för filtrering."
+
+#: lib/API/JSON/v1/DynamicSegments.php:180
+msgid "Please select a type for the comparison, an amount and a number of days."
+msgstr "Välj en typ för jämförelsen, ett belopp och ett antal dagar."
+
+#: lib/API/JSON/v1/DynamicSegments.php:176
+msgid "Please select a type for the comparison, a number of orders and a number of days."
+msgstr "Välj en typ för jämförelsen, ett antal beställningar och ett antal dagar."
+
+#: lib/API/JSON/v1/Forms.php:314
+msgid "Duplicating form failed."
+msgstr "Duplicering av formulär misslyckades."
+
+#: lib/API/JSON/v1/Subscribers.php:318
+msgid "Unexpected error."
+msgstr "Oväntat fel."
+
+#: lib/Models/Segment.php:273 lib/Segments/SegmentsSimpleListRepository.php:62
+msgid "Subscribers without a list"
+msgstr "Prenumeranter utan en lista"
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:69
+msgid "Confirmation IP"
+msgstr "Bekräftelse-IP"
+
+#: lib/Form/Block/BlockRendererHelper.php:45
+msgid "Please specify a valid name."
+msgstr "Ange ett giltigt namn."
+
+#: lib/API/JSON/v1/Forms.php:222
+msgid "Only administrator can edit forms containing Custom HTML block."
+msgstr "Endast administratörer kan redigera formulär som innehåller anpassat HTML-block."
+
+#: lib/API/JSON/v1/Segments.php:146 lib/API/JSON/v1/Segments.php:182
+msgid "This list cannot be moved to trash."
+msgstr "Listan kan inte flyttas till papperskorgen."
+
+#: lib/API/JSON/v1/Segments.php:253
+msgid "Duplicating of segment failed."
+msgstr "Duplicering av segment misslyckades."
+
+#: lib/Cron/DaemonHttpRunner.php:84
+msgid "Daemon does not set correctly."
+msgstr "Daemon är inte korrekt inställd."
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:108
+msgid "Search products"
+msgstr "Sök produkter"
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:87
+msgctxt "Search input for product category (ecommerce)"
+msgid "Search category"
+msgstr "Sök kategori"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1549
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1552
+msgid "Buy now"
+msgstr "Köp nu"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1340
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1343
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1400
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1403
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1522
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1525
+#: assets/dist/js/commons.js:9
+msgid "Read more"
+msgstr "Läs mer"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:687
+msgid "Go To Cart"
+msgstr "Gå till i varukorg"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:506
+msgid "Wait!"
+msgstr "Vänta!"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:447
+msgid "Toys & Games"
+msgstr "Leksaker och spel"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:777
+msgid "YOU MIGHT ALSO LIKE…"
+msgstr "DU KANSKE OCKSÅ GILLAR …"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:506
+msgid "You’ve left something in your cart!"
+msgstr "Du lämnade något i din varukorg!"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1029
+msgid "Pink Dance Dress"
+msgstr "Rosa dansklänning"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:962
+msgid "Red T-Shirt"
+msgstr "Röd t-shirt"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:421
+msgid "Girls Clothes"
+msgstr "Flickkläder"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:395
+msgid "Boys Clothes"
+msgstr "Pojkkläder"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:598
+msgid "Don’t worry, we saved it for you…"
+msgstr "Ingen fara, vi sparade det åt dig …"
+
+#: lib/Config/PopulatorData/Templates/Fitness.php:1203
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1656
+msgid "New Order: #0001"
+msgstr "Ny beställning: #0001"
+
+#: lib/Form/Templates/Templates/Template17BelowPages.php:110
+#: lib/Form/Templates/Templates/Template17FixedBar.php:73
+#: lib/Form/Templates/Templates/Template17Popup.php:132
+#: lib/Form/Templates/Templates/Template17SlideIn.php:132
+#: lib/Form/Templates/Templates/Template17Widget.php:113
+msgctxt "Form label"
+msgid "DARE TO SUBSCRIBE?!"
+msgstr "VÅGAR DU PRENUMERERA?"
+
+#: lib/Form/Templates/Templates/Template1BelowPages.php:63
+#: lib/Form/Templates/Templates/Template1FixedBar.php:104
+#: lib/Form/Templates/Templates/Template1Popup.php:66
+#: lib/Form/Templates/Templates/Template1SlideIn.php:66
+#: lib/Form/Templates/Templates/Template1Widget.php:66
+#: lib/Form/Templates/Templates/Template3BelowPages.php:91
+#: lib/Form/Templates/Templates/Template3FixedBar.php:94
+#: lib/Form/Templates/Templates/Template3Popup.php:73
+#: lib/Form/Templates/Templates/Template3SlideIn.php:73
+#: lib/Form/Templates/Templates/Template3Widget.php:73
+#: lib/Form/Templates/Templates/Template4BelowPages.php:93
+#: lib/Form/Templates/Templates/Template4FixedBar.php:93
+#: lib/Form/Templates/Templates/Template4Popup.php:109
+#: lib/Form/Templates/Templates/Template4SlideIn.php:109
+#: lib/Form/Templates/Templates/Template4Widget.php:72
+#: lib/Form/Templates/Templates/Template6BelowPages.php:78
+#: lib/Form/Templates/Templates/Template6FixedBar.php:79
+#: lib/Form/Templates/Templates/Template6Popup.php:59
+#: lib/Form/Templates/Templates/Template6SlideIn.php:59
+#: lib/Form/Templates/Templates/Template6Widget.php:59
+#: lib/Form/Templates/Templates/Template7BelowPages.php:106
+#: lib/Form/Templates/Templates/Template7FixedBar.php:90
+#: lib/Form/Templates/Templates/Template7Popup.php:87
+#: lib/Form/Templates/Templates/Template7SlideIn.php:87
+#: lib/Form/Templates/Templates/Template7Widget.php:73
+#: lib/Form/Templates/Templates/Template10BelowPages.php:87
+#: lib/Form/Templates/Templates/Template10FixedBar.php:157
+#: lib/Form/Templates/Templates/Template10Popup.php:96
+#: lib/Form/Templates/Templates/Template10SlideIn.php:94
+#: lib/Form/Templates/Templates/Template10Widget.php:96
+#: lib/Form/Templates/Templates/Template11BelowPages.php:149
+#: lib/Form/Templates/Templates/Template11FixedBar.php:123
+#: lib/Form/Templates/Templates/Template11Popup.php:117
+#: lib/Form/Templates/Templates/Template11SlideIn.php:117
+#: lib/Form/Templates/Templates/Template11Widget.php:106
+#: lib/Form/Templates/Templates/Template12BelowPages.php:118
+#: lib/Form/Templates/Templates/Template12FixedBar.php:107
+#: lib/Form/Templates/Templates/Template12Popup.php:132
+#: lib/Form/Templates/Templates/Template12SlideIn.php:132
+#: lib/Form/Templates/Templates/Template12Widget.php:75
+#: lib/Form/Templates/Templates/Template13BelowPages.php:127
+#: lib/Form/Templates/Templates/Template13FixedBar.php:151
+#: lib/Form/Templates/Templates/Template13Popup.php:127
+#: lib/Form/Templates/Templates/Template13SlideIn.php:127
+#: lib/Form/Templates/Templates/Template13Widget.php:103
+#: lib/Form/Templates/Templates/Template14BelowPages.php:113
+#: lib/Form/Templates/Templates/Template14FixedBar.php:137
+#: lib/Form/Templates/Templates/Template14Popup.php:113
+#: lib/Form/Templates/Templates/Template14SlideIn.php:113
+#: lib/Form/Templates/Templates/Template14Widget.php:89
+#: lib/Form/Templates/Templates/Template17BelowPages.php:91
+#: lib/Form/Templates/Templates/Template17FixedBar.php:54
+#: lib/Form/Templates/Templates/Template17Popup.php:113
+#: lib/Form/Templates/Templates/Template17SlideIn.php:113
+#: lib/Form/Templates/Templates/Template17Widget.php:94
+#: lib/Form/Templates/Templates/Template18BelowPages.php:193
+#: lib/Form/Templates/Templates/Template18FixedBar.php:207
+#: lib/Form/Templates/Templates/Template18Popup.php:131
+#: lib/Form/Templates/Templates/Template18SlideIn.php:131
+#: lib/Form/Templates/Templates/Template18Widget.php:117
+msgctxt "Form label"
+msgid "Email Address"
+msgstr "E-postadress"
+
+#: lib/Form/Templates/Templates/Template14BelowPages.php:87
+#: lib/Form/Templates/Templates/Template14FixedBar.php:87
+#: lib/Form/Templates/Templates/Template14Popup.php:87
+#: lib/Form/Templates/Templates/Template14SlideIn.php:87
+#: lib/Form/Templates/Templates/Template14Widget.php:44
+msgctxt "Text in a web form"
+msgid "WANT MORE?"
+msgstr "VILL DU HA MER?"
+
+#: lib/Form/Templates/Templates/Template18BelowPages.php:93
+#: lib/Form/Templates/Templates/Template18FixedBar.php:107
+#: lib/Form/Templates/Templates/Template18Popup.php:90
+#: lib/Form/Templates/Templates/Template18SlideIn.php:90
+#: lib/Form/Templates/Templates/Template18Widget.php:76
+msgctxt "Text in a web form (Black Friday)."
+msgid "B L A C K"
+msgstr "B L A C K"
+
+#: lib/Form/Templates/Templates/Template18BelowPages.php:117
+#: lib/Form/Templates/Templates/Template18FixedBar.php:131
+#: lib/Form/Templates/Templates/Template18Popup.php:90
+#: lib/Form/Templates/Templates/Template18SlideIn.php:90
+#: lib/Form/Templates/Templates/Template18Widget.php:76
+msgctxt "Text in a web form (Black Friday)."
+msgid "F R I D A Y"
+msgstr "F R I D A Y"
+
+#: lib/Form/Templates/Templates/Template18BelowPages.php:212
+#: lib/Form/Templates/Templates/Template18FixedBar.php:226
+#: lib/Form/Templates/Templates/Template18Popup.php:150
+#: lib/Form/Templates/Templates/Template18SlideIn.php:150
+#: lib/Form/Templates/Templates/Template18Widget.php:136
+msgctxt "Form label"
+msgid "GET YOUR COUPON"
+msgstr "SKAFFA DIN RABATTKOD"
+
+#: lib/Form/Templates/Templates/Template18BelowPages.php:17
+#: lib/Form/Templates/Templates/Template18FixedBar.php:17
+#: lib/Form/Templates/Templates/Template18Popup.php:17
+#: lib/Form/Templates/Templates/Template18SlideIn.php:17
+#: lib/Form/Templates/Templates/Template18Widget.php:17
+msgctxt "Form template name"
+msgid "Black Friday"
+msgstr "Black Friday"
+
+#: lib/Form/Templates/Templates/Template13BelowPages.php:17
+#: lib/Form/Templates/Templates/Template13FixedBar.php:17
+#: lib/Form/Templates/Templates/Template13Popup.php:17
+#: lib/Form/Templates/Templates/Template13SlideIn.php:17
+#: lib/Form/Templates/Templates/Template13Widget.php:17
+msgctxt "Form template name"
+msgid "Restaurant Discount"
+msgstr "Restaurangrabatt"
+
+#: lib/Form/Templates/Templates/Template17BelowPages.php:78
+#: lib/Form/Templates/Templates/Template17FixedBar.php:119
+msgctxt "Text in a web form."
+msgid "Subscribe to claim your exclusive Halloween offer from us."
+msgstr "Prenumerera för att göra anspråk på ditt exklusiva Halloween-erbjudande från oss."
+
+#: lib/Form/Templates/Templates/Template13BelowPages.php:101
+#: lib/Form/Templates/Templates/Template13FixedBar.php:101
+#: lib/Form/Templates/Templates/Template13Popup.php:101
+#: lib/Form/Templates/Templates/Template13SlideIn.php:101
+#: lib/Form/Templates/Templates/Template13Widget.php:58
+msgctxt "Text in a web form"
+msgid "10% OFF YOUR BILL"
+msgstr "10&nbsp;% RABATT PÅ DIN NÄSTA FAKTURA"
+
+#: lib/Form/Templates/Templates/Template18BelowPages.php:41
+#: lib/Form/Templates/Templates/Template18FixedBar.php:55
+#: lib/Form/Templates/Templates/Template18Popup.php:63
+#: lib/Form/Templates/Templates/Template18SlideIn.php:63
+#: lib/Form/Templates/Templates/Template18Widget.php:49
+msgctxt "Text in a web form"
+msgid "IT’S HERE! DON’T MISS OUT!"
+msgstr "DET ÄR HÄR! MISSA DET INTE!"
+
+#: lib/Form/Templates/Templates/Template17BelowPages.php:17
+#: lib/Form/Templates/Templates/Template17FixedBar.php:17
+#: lib/Form/Templates/Templates/Template17Popup.php:17
+#: lib/Form/Templates/Templates/Template17SlideIn.php:17
+#: lib/Form/Templates/Templates/Template17Widget.php:17
+msgctxt "Form template name"
+msgid "Halloween"
+msgstr "Halloween"
+
+#: lib/Form/Templates/Templates/Template17BelowPages.php:63
+#: lib/Form/Templates/Templates/Template17FixedBar.php:104
+#: lib/Form/Templates/Templates/Template17Popup.php:85
+#: lib/Form/Templates/Templates/Template17SlideIn.php:85
+#: lib/Form/Templates/Templates/Template17Widget.php:66
+msgctxt "Text in a web form"
+msgid "BOO! DON’T BE SCARED!"
+msgstr "BU! BLI INTE RÄDD!"
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:77
+msgid "Let MailPoet send an email to customers who purchase a specific product for the first time."
+msgstr "Låt MailPoet skicka ett e-postmeddelande till kunder som köper en specifik produkt för första gången."
+
+#: lib/Form/Templates/Templates/Template12BelowPages.php:99
+#: lib/Form/Templates/Templates/Template12FixedBar.php:78
+#: lib/Form/Templates/Templates/Template12Popup.php:113
+#: lib/Form/Templates/Templates/Template12SlideIn.php:113
+#: lib/Form/Templates/Templates/Template12Widget.php:56
+msgctxt "Form label"
+msgid "Full Name"
+msgstr "Fullständigt namn"
+
+#: lib/Form/Templates/Templates/Template3BelowPages.php:17
+#: lib/Form/Templates/Templates/Template3FixedBar.php:17
+#: lib/Form/Templates/Templates/Template3Popup.php:17
+#: lib/Form/Templates/Templates/Template3SlideIn.php:17
+#: lib/Form/Templates/Templates/Template3Widget.php:17
+msgctxt "Form template name"
+msgid "Welcome Discount"
+msgstr "Välkomstrabatt"
+
+#: lib/Form/Templates/Templates/Template12BelowPages.php:138
+#: lib/Form/Templates/Templates/Template12FixedBar.php:137
+#: lib/Form/Templates/Templates/Template12Popup.php:152
+#: lib/Form/Templates/Templates/Template12SlideIn.php:152
+#: lib/Form/Templates/Templates/Template12Widget.php:95
+msgctxt "Form label"
+msgid "GET 20% OFF"
+msgstr "FÅ 20&nbsp;% RABATT"
+
+#: lib/Form/Templates/Templates/Template4BelowPages.php:17
+#: lib/Form/Templates/Templates/Template4FixedBar.php:17
+#: lib/Form/Templates/Templates/Template4Popup.php:17
+#: lib/Form/Templates/Templates/Template4SlideIn.php:17
+#: lib/Form/Templates/Templates/Template4Widget.php:17
+msgctxt "Form template name"
+msgid "Newsletter Signup"
+msgstr "Registrering för nyhetsbrev"
+
+#: lib/Form/Templates/Templates/Template6BelowPages.php:17
+#: lib/Form/Templates/Templates/Template6FixedBar.php:17
+#: lib/Form/Templates/Templates/Template6Popup.php:17
+#: lib/Form/Templates/Templates/Template6SlideIn.php:17
+#: lib/Form/Templates/Templates/Template6Widget.php:17
+msgctxt "Form template name"
+msgid "Fitness Tips"
+msgstr "Träningstips"
+
+#: lib/Form/Templates/Templates/Template11BelowPages.php:169
+#: lib/Form/Templates/Templates/Template11FixedBar.php:166
+#: lib/Form/Templates/Templates/Template11Popup.php:137
+#: lib/Form/Templates/Templates/Template11SlideIn.php:137
+#: lib/Form/Templates/Templates/Template11Widget.php:126
+#: lib/Form/Templates/Templates/Template13BelowPages.php:146
+#: lib/Form/Templates/Templates/Template13FixedBar.php:170
+#: lib/Form/Templates/Templates/Template13Popup.php:146
+#: lib/Form/Templates/Templates/Template13SlideIn.php:146
+#: lib/Form/Templates/Templates/Template13Widget.php:122
+msgctxt "Form label"
+msgid "JOIN THE LIST"
+msgstr "GÅ MED I LISTAN"
+
+#: lib/Form/Templates/Templates/Template7BelowPages.php:17
+#: lib/Form/Templates/Templates/Template7FixedBar.php:17
+#: lib/Form/Templates/Templates/Template7Popup.php:17
+#: lib/Form/Templates/Templates/Template7SlideIn.php:17
+#: lib/Form/Templates/Templates/Template7Widget.php:17
+msgctxt "Form template name"
+msgid "Latest Deals"
+msgstr "Senaste erbjudandena"
+
+#: lib/Form/Templates/Templates/Template12BelowPages.php:17
+#: lib/Form/Templates/Templates/Template12FixedBar.php:17
+#: lib/Form/Templates/Templates/Template12Popup.php:17
+#: lib/Form/Templates/Templates/Template12SlideIn.php:17
+#: lib/Form/Templates/Templates/Template12Widget.php:17
+msgctxt "Form template name"
+msgid "Limited Time Offer"
+msgstr "Tidsbegränsat erbjudande"
+
+#: lib/Form/Templates/Templates/Template1BelowPages.php:17
+#: lib/Form/Templates/Templates/Template1FixedBar.php:17
+#: lib/Form/Templates/Templates/Template1Popup.php:17
+#: lib/Form/Templates/Templates/Template1SlideIn.php:17
+#: lib/Form/Templates/Templates/Template1Widget.php:17
+msgctxt "Form template name"
+msgid "Join the Club"
+msgstr "Gå med i klubben"
+
+#: lib/Config/Menu.php:319 lib/Config/Menu.php:320
+msgid "Select Form Template"
+msgstr "Välj formulärmall"
+
+#: lib/Form/Templates/Templates/Template11BelowPages.php:17
+#: lib/Form/Templates/Templates/Template11FixedBar.php:17
+#: lib/Form/Templates/Templates/Template11Popup.php:17
+#: lib/Form/Templates/Templates/Template11SlideIn.php:17
+#: lib/Form/Templates/Templates/Template11Widget.php:17
+msgctxt "Form template name"
+msgid "Priority List"
+msgstr "Prioriteringslista"
+
+#: lib/Util/Notices/HeadersAlreadySentNotice.php:79
+msgid "[link]Learn how to fix this issue and restore functionality[/link]"
+msgstr "[link]Lär dig hur man åtgärdar detta problem och återställer funktionaliteten[/link]"
+
+#: lib/Util/Notices/HeadersAlreadySentNotice.php:74
+msgid "CAPTCHA not rendering correctly"
+msgstr "CAPTCHA återges inte korrekt"
+
+#: lib/Util/Notices/HeadersAlreadySentNotice.php:73
+msgid "Inaccurate tracking of email opens and clicks"
+msgstr "Felaktig spårning av e-postöppningar och klick"
+
+#: lib/Form/Templates/Templates/Template3Widget.php:30
+msgctxt "Text in a web form. First line of \"10% off, especially for you.\""
+msgid "10% off,"
+msgstr "10&nbsp;% rabatt,"
+
+#: lib/Form/Templates/Templates/Template3Widget.php:45
+msgctxt "Text in a web form. Second line of \"10% off, especially...\""
+msgid "especially for you"
+msgstr "endast för dig"
+
+#: lib/Form/Templates/Templates/Template4Popup.php:66
+#: lib/Form/Templates/Templates/Template4SlideIn.php:66
+#: lib/Form/Templates/Templates/Template4Widget.php:44
+msgctxt "Text in a web form. Keep HTML tags!"
+msgid "Oh hi there 👋<br>It’s nice to meet you."
+msgstr "Hej där 👋<br>Det är trevligt att träffa dig."
+
+#: lib/Form/Templates/Templates/Template4BelowPages.php:56
+#: lib/Form/Templates/Templates/Template4FixedBar.php:56
+#: lib/Form/Templates/Templates/Template4Popup.php:81
+#: lib/Form/Templates/Templates/Template4SlideIn.php:81
+#: lib/Form/Templates/Templates/Template4Widget.php:59
+msgctxt "Text in a web form."
+msgid "Sign up to receive awesome content in your inbox, every month."
+msgstr "Registrera dig för att få fantastiskt innehåll i din inkorg varje månad."
+
+#: lib/Form/Templates/Templates/Template4BelowPages.php:41
+#: lib/Form/Templates/Templates/Template4FixedBar.php:41
+msgctxt "Text in a web form."
+msgid "Oh hi there 👋 It’s nice to meet you."
+msgstr "Hej där. 👋 Det är trevligt att träffa dig."
+
+#: lib/Form/Templates/Templates/Template3BelowPages.php:41
+#: lib/Form/Templates/Templates/Template3FixedBar.php:41
+msgctxt "Text in a web form. Keep HTML tags!"
+msgid "10% off, <br>especially for you"
+msgstr "10&nbsp;% rabatt, <br>endast för dig"
+
+#: lib/Form/Templates/Templates/Template1BelowPages.php:133
+msgctxt "Text in a web form."
+msgid "We don’t spam! Read more in our [link]privacy policy[/link]"
+msgstr "Vi skickar inte skräppost! Läs mer i vår [link]integritetspolicy[/link]"
+
+#: lib/Form/Templates/Templates/Template1BelowPages.php:93
+#: lib/Form/Templates/Templates/Template1FixedBar.php:134
+#: lib/Form/Templates/Templates/Template1Popup.php:86
+#: lib/Form/Templates/Templates/Template1SlideIn.php:86
+#: lib/Form/Templates/Templates/Template1Widget.php:86
+msgctxt "Form label"
+msgid "JOIN THE CLUB"
+msgstr "GÅ MED I KLUBBEN"
+
+#: lib/Form/Templates/Templates/Template1BelowPages.php:30
+#: lib/Form/Templates/Templates/Template1FixedBar.php:55
+#: lib/Form/Templates/Templates/Template1Popup.php:52
+#: lib/Form/Templates/Templates/Template1SlideIn.php:52
+#: lib/Form/Templates/Templates/Template1Widget.php:52
+msgctxt "Text in a web form."
+msgid "Don’t miss these tips!"
+msgstr "Missa inte dessa tips!"
+
+#: lib/Form/Templates/Templates/Template10BelowPages.php:45
+#: lib/Form/Templates/Templates/Template10Popup.php:45
+#: lib/Form/Templates/Templates/Template10SlideIn.php:45
+#: lib/Form/Templates/Templates/Template10Widget.php:45
+msgctxt "Text in a web form."
+msgid "We’d love to keep you updated with our latest news and offers"
+msgstr "Vi gillar att hålla dig uppdaterad med våra senaste nyheter och erbjudande"
+
+#: lib/Form/Templates/Templates/Template7BelowPages.php:175
+#: lib/Form/Templates/Templates/Template7Popup.php:127
+#: lib/Form/Templates/Templates/Template7SlideIn.php:127
+#: lib/Form/Templates/Templates/Template7Widget.php:113
+msgctxt "Text in a web form. Keep HTML tags!"
+msgid "We’ll never send you spam or share your email address.<br>Find out more in our [link]Privacy Policy[/link]."
+msgstr "Vi skickar aldrig skräppost till dig eller delar din e-postadress.<br>Ta reda på mer i vår [link]Integritetspolicy[/link]."
+
+#: lib/Form/Templates/Templates/Template7BelowPages.php:44
+#: lib/Form/Templates/Templates/Template7FixedBar.php:41
+#: lib/Form/Templates/Templates/Template7Popup.php:44
+#: lib/Form/Templates/Templates/Template7SlideIn.php:44
+#: lib/Form/Templates/Templates/Template7Widget.php:44
+msgctxt "Text in a web form."
+msgid "Relax!"
+msgstr "Koppla av!"
+
+#: lib/Form/Templates/Templates/Template3Popup.php:45
+#: lib/Form/Templates/Templates/Template3SlideIn.php:45
+msgctxt "Text in a web form. Second line of \"10% off, especially...\""
+msgid "off, especially for you"
+msgstr "rabatt, endast för dig"
+
+#: lib/Form/Templates/Templates/Template7BelowPages.php:135
+#: lib/Form/Templates/Templates/Template7FixedBar.php:119
+#: lib/Form/Templates/Templates/Template7Popup.php:106
+#: lib/Form/Templates/Templates/Template7SlideIn.php:106
+#: lib/Form/Templates/Templates/Template7Widget.php:92
+msgctxt "Form label"
+msgid "Get the latest deals"
+msgstr "Få senaste erbjudandet"
+
+#: lib/Form/Templates/Templates/Template7BelowPages.php:59
+#: lib/Form/Templates/Templates/Template7Popup.php:59
+#: lib/Form/Templates/Templates/Template7SlideIn.php:59
+#: lib/Form/Templates/Templates/Template7Widget.php:59
+msgctxt "Text in a web form."
+msgid "Put your feet up and let us do the hard work for you. Sign up to receive our latest deals directly in your inbox."
+msgstr "Lägg upp dina fötterna och låt oss göra det hårda arbetet åt dig. Registrera dig för att få våra senaste erbjudanden direkt i din inkorg."
+
+#: lib/Form/Templates/Templates/Template6BelowPages.php:147
+#: lib/Form/Templates/Templates/Template6Popup.php:100
+#: lib/Form/Templates/Templates/Template6SlideIn.php:99
+#: lib/Form/Templates/Templates/Template6Widget.php:99
+msgctxt "Text in a web form."
+msgid "We promise we’ll never spam! Take a look at our [link]Privacy Policy[/link] for more info."
+msgstr "Vi lovar, vi skickar aldrig skräppost! Ta en titt i vår [link]Integritetspolicy[/link] för mer information."
+
+#: lib/Form/Templates/Templates/Template3BelowPages.php:67
+#: lib/Form/Templates/Templates/Template3Popup.php:60
+#: lib/Form/Templates/Templates/Template3SlideIn.php:60
+#: lib/Form/Templates/Templates/Template3Widget.php:60
+msgctxt "Text in a web form."
+msgid "Sign up to receive your exclusive discount, and keep up to date on our latest products & offers!"
+msgstr "Registrera för att få din exklusiva rabatt och håll dig uppdaterad om våra senaste produkter och erbjudanden!"
+
+#. translators: %1$s is a comma-seperated list of allowed values, %2$s the
+#. status the user specified.
+#: lib/API/JSON/v1/Forms.php:129
+msgid "Invalid status. Allowed values are (%1$s), you specified %2$s"
+msgstr "Ogiltig status. Tillåtet värde är (%1$s), du specificerade %2$s"
+
+#: lib/Form/Templates/Templates/Template6BelowPages.php:107
+#: lib/Form/Templates/Templates/Template6FixedBar.php:98
+#: lib/Form/Templates/Templates/Template6Popup.php:79
+#: lib/Form/Templates/Templates/Template6SlideIn.php:78
+#: lib/Form/Templates/Templates/Template6Widget.php:78
+msgctxt "Form label"
+msgid "Get Started!"
+msgstr "Kom igång!"
+
+#: lib/Form/Templates/Templates/Template3BelowPages.php:120
+#: lib/Form/Templates/Templates/Template3FixedBar.php:113
+#: lib/Form/Templates/Templates/Template3Popup.php:92
+#: lib/Form/Templates/Templates/Template3SlideIn.php:92
+#: lib/Form/Templates/Templates/Template3Widget.php:92
+msgctxt "Form label"
+msgid "Save 10%"
+msgstr "Spara 10&nbsp;%"
+
+#: lib/Form/Templates/Templates/Template10BelowPages.php:134
+#: lib/Form/Templates/Templates/Template10FixedBar.php:186
+#: lib/Form/Templates/Templates/Template10Popup.php:116
+#: lib/Form/Templates/Templates/Template10SlideIn.php:113
+#: lib/Form/Templates/Templates/Template10Widget.php:116
+msgctxt "Form label"
+msgid "Keep me posted!"
+msgstr "Håll mig uppdaterad!"
+
+#: lib/Form/Templates/Templates/Template10BelowPages.php:116
+#: lib/Form/Templates/Templates/Template10FixedBar.php:129
+#: lib/Form/Templates/Templates/Template10Popup.php:77
+#: lib/Form/Templates/Templates/Template10SlideIn.php:76
+#: lib/Form/Templates/Templates/Template10Widget.php:77
+msgctxt "Form label"
+msgid "And your surname?"
+msgstr "Och ditt efternamn?"
+
+#: lib/Form/Templates/Templates/Template10BelowPages.php:69
+#: lib/Form/Templates/Templates/Template10FixedBar.php:101
+#: lib/Form/Templates/Templates/Template10Popup.php:58
+#: lib/Form/Templates/Templates/Template10SlideIn.php:58
+#: lib/Form/Templates/Templates/Template10Widget.php:58
+msgctxt "Form label"
+msgid "What’s your name?"
+msgstr "Vad heter du?"
+
+#: lib/Config/PopulatorData/Templates/Avocado.php:1002
+#: lib/Config/PopulatorData/Templates/Birds.php:212
+#: lib/Config/PopulatorData/Templates/Birds.php:1733
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:839
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:1166
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:107
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:2073
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:162
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:1280
+#: lib/Config/PopulatorData/Templates/Charity.php:1115
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:108
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1481
+#: lib/Config/PopulatorData/Templates/ClearNews.php:108
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1866
+#: lib/Config/PopulatorData/Templates/Coffee.php:229
+#: lib/Config/PopulatorData/Templates/College.php:281
+#: lib/Config/PopulatorData/Templates/College.php:1125
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:108
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:1118
+#: lib/Config/PopulatorData/Templates/DogFood.php:1129
+#: lib/Config/PopulatorData/Templates/Drone.php:1172
+#: lib/Config/PopulatorData/Templates/Engineering.php:166
+#: lib/Config/PopulatorData/Templates/Engineering.php:1251
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:107
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1536
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:108
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:1083
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:176
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1426
+#: lib/Config/PopulatorData/Templates/FashionShop.php:108
+#: lib/Config/PopulatorData/Templates/FashionShop.php:1021
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1405
+#: lib/Config/PopulatorData/Templates/Fitness.php:1178
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1505
+#: lib/Config/PopulatorData/Templates/Guitarist.php:290
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1724
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2452
+#: lib/Config/PopulatorData/Templates/Hotels.php:1393
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1045
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1456
+#: lib/Config/PopulatorData/Templates/JazzClub.php:108
+#: lib/Config/PopulatorData/Templates/JazzClub.php:1251
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1651
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:96
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:1263
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:158
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1493
+#: lib/Config/PopulatorData/Templates/Minimal.php:1196
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1425
+#: lib/Config/PopulatorData/Templates/Mosque.php:150
+#: lib/Config/PopulatorData/Templates/Mosque.php:1786
+#: lib/Config/PopulatorData/Templates/Motor.php:241
+#: lib/Config/PopulatorData/Templates/Motor.php:1191
+#: lib/Config/PopulatorData/Templates/Music.php:1464
+#: lib/Config/PopulatorData/Templates/NewsDay.php:1076
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:65
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:65
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:65
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:65
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:146
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:1214
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:989
+#: lib/Config/PopulatorData/Templates/Painter.php:108
+#: lib/Config/PopulatorData/Templates/Painter.php:1398
+#: lib/Config/PopulatorData/Templates/Phone.php:757
+#: lib/Config/PopulatorData/Templates/Photography.php:158
+#: lib/Config/PopulatorData/Templates/Photography.php:2096
+#: lib/Config/PopulatorData/Templates/PieceOfCake.php:61
+#: lib/Config/PopulatorData/Templates/Poet.php:183
+#: lib/Config/PopulatorData/Templates/Poet.php:1247
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:65
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:108
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:1343
+#: lib/Config/PopulatorData/Templates/RealEstate.php:1095
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:1330
+#: lib/Config/PopulatorData/Templates/Retro.php:1313
+#: lib/Config/PopulatorData/Templates/RetroComputingMagazine.php:166
+#: lib/Config/PopulatorData/Templates/RockBand.php:150
+#: lib/Config/PopulatorData/Templates/RockBand.php:1217
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:815
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:1168
+#: lib/Config/PopulatorData/Templates/Software.php:1292
+#: lib/Config/PopulatorData/Templates/Synagogue.php:108
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1780
+#: lib/Config/PopulatorData/Templates/Vlogger.php:108
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1405
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:65
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:65
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:754
+#: lib/Config/PopulatorData/Templates/WineCity.php:927
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:108
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1416
+msgid "View this in your browser."
+msgstr "Visa detta i din webbläsare."
+
+#: lib/Config/PopulatorData/Templates/Avocado.php:657
+#: lib/Config/PopulatorData/Templates/Avocado.php:866
+#: lib/Config/PopulatorData/Templates/Birds.php:1352
+#: lib/Config/PopulatorData/Templates/Birds.php:1586
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:815
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:1049
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1690
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1936
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:899
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:1133
+#: lib/Config/PopulatorData/Templates/Charity.php:777
+#: lib/Config/PopulatorData/Templates/Charity.php:990
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1044
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1326
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1721
+#: lib/Config/PopulatorData/Templates/Coffee.php:937
+#: lib/Config/PopulatorData/Templates/College.php:715
+#: lib/Config/PopulatorData/Templates/College.php:979
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:961
+#: lib/Config/PopulatorData/Templates/ConfirmInterestBeforeDeactivation.php:166
+#: lib/Config/PopulatorData/Templates/ConfirmInterestOrUnsubscribe.php:165
+#: lib/Config/PopulatorData/Templates/DogFood.php:761
+#: lib/Config/PopulatorData/Templates/DogFood.php:993
+#: lib/Config/PopulatorData/Templates/Drone.php:1047
+#: lib/Config/PopulatorData/Templates/Engineering.php:826
+#: lib/Config/PopulatorData/Templates/Engineering.php:1114
+#: lib/Config/PopulatorData/Templates/Faith.php:356
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1106
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1399
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:659
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:946
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1048
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1281
+#: lib/Config/PopulatorData/Templates/FashionShop.php:642
+#: lib/Config/PopulatorData/Templates/FashionShop.php:874
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1067
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1280
+#: lib/Config/PopulatorData/Templates/Fitness.php:995
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1135
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1368
+#: lib/Config/PopulatorData/Templates/FoodBox.php:690
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1341
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1587
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2071
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2305
+#: lib/Config/PopulatorData/Templates/Hotels.php:1035
+#: lib/Config/PopulatorData/Templates/Hotels.php:1268
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1069
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1309
+#: lib/Config/PopulatorData/Templates/JazzClub.php:856
+#: lib/Config/PopulatorData/Templates/JazzClub.php:1096
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1188
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1472
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:894
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:1126
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1113
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1346
+#: lib/Config/PopulatorData/Templates/Minimal.php:786
+#: lib/Config/PopulatorData/Templates/Minimal.php:1071
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1025
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1293
+#: lib/Config/PopulatorData/Templates/Mosque.php:1415
+#: lib/Config/PopulatorData/Templates/Mosque.php:1649
+#: lib/Config/PopulatorData/Templates/Motor.php:793
+#: lib/Config/PopulatorData/Templates/Motor.php:1055
+#: lib/Config/PopulatorData/Templates/Music.php:1094
+#: lib/Config/PopulatorData/Templates/Music.php:1339
+#: lib/Config/PopulatorData/Templates/NewsDay.php:952
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:264
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:287
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:324
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:725
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:1067
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:607
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:862
+#: lib/Config/PopulatorData/Templates/Painter.php:1038
+#: lib/Config/PopulatorData/Templates/Painter.php:1251
+#: lib/Config/PopulatorData/Templates/Phone.php:633
+#: lib/Config/PopulatorData/Templates/Photography.php:1703
+#: lib/Config/PopulatorData/Templates/Photography.php:1949
+#: lib/Config/PopulatorData/Templates/Poet.php:870
+#: lib/Config/PopulatorData/Templates/Poet.php:1103
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:290
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:962
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:1196
+#: lib/Config/PopulatorData/Templates/RealEstate.php:726
+#: lib/Config/PopulatorData/Templates/RealEstate.php:970
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:980
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:1194
+#: lib/Config/PopulatorData/Templates/Retro.php:835
+#: lib/Config/PopulatorData/Templates/Retro.php:1188
+#: lib/Config/PopulatorData/Templates/RetroComputingMagazine.php:595
+#: lib/Config/PopulatorData/Templates/RockBand.php:846
+#: lib/Config/PopulatorData/Templates/RockBand.php:1080
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:455
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:692
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:775
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:1042
+#: lib/Config/PopulatorData/Templates/SimpleText.php:148
+#: lib/Config/PopulatorData/Templates/Software.php:910
+#: lib/Config/PopulatorData/Templates/Software.php:1155
+#: lib/Config/PopulatorData/Templates/Sunglasses.php:663
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1355
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1643
+#: lib/Config/PopulatorData/Templates/TakeAHike.php:680
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1006
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1258
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:294
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:363
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:629
+#: lib/Config/PopulatorData/Templates/WineCity.php:518
+#: lib/Config/PopulatorData/Templates/WineCity.php:791
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1035
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1269
+#: lib/Config/PopulatorData/Templates/WorldCup.php:727
+msgid "Add your postal address here!"
+msgstr "Lägg till din postadress här!"
+
+#: lib/Config/Menu.php:456 lib/Config/Menu.php:457
+msgid "WooCommerce Setup"
+msgstr "WooCommerce-konfiguration"
+
+#: lib/Subscription/Pages.php:415
+msgid "Confirm you want to unsubscribe"
+msgstr "Bekräfta att du vill avregistrera"
+
+#: lib/API/JSON/v1/Services.php:258 assets/dist/js/commons.js:9
+msgid "MailPoet Sending Service is not active."
+msgstr "MailPoets utskickstjänst är inte aktiv."
+
+#: lib/API/JSON/v1/Services.php:274
+msgid "No FROM email addresses are authorized."
+msgstr "Inga FRÅN-adresser är auktoriserade."
+
+#. translators: %s is the email address, which is not authorized.
+#: lib/API/JSON/v1/Services.php:279
+msgid "Sender email address '%s' is not authorized."
+msgstr "Avsändaradressen ”%s” är inte auktoriserad."
+
+#: lib/API/JSON/v1/Services.php:288
+msgid "Sending of congratulatory email failed."
+msgstr "Utskick av gratulationsmeddelande misslyckades."
+
+#: lib/Form/PreviewPage.php:65
+msgid "Sample page to preview your form"
+msgstr "Provsida för att förhandsvisa ditt formulär"
+
+#: lib/Subscribers/ImportExport/Export/Export.php:116
+msgid "Failed opening file for export."
+msgstr "Det gick inte att öppna filen för export."
+
+#: lib/Services/CongratulatoryMssEmailController.php:34
+msgctxt "Subject of an email confirming that MailPoet Sending Service works"
+msgid "Sending with MailPoet works!"
+msgstr "Utskick med MailPoet fungerar!"
+
+#: lib/API/JSON/v1/Services.php:263
+msgid "Sender email address is not set."
+msgstr "Avsändarens e-postadress är inte inställd."
+
+#: lib/Config/ServicesChecker.php:49
+msgid "Your key to send with MailPoet is invalid."
+msgstr "Din nyckel för att skicka med MailPoet är ogiltig."
+
+#: lib/Config/ServicesChecker.php:48
+msgid "All sending is currently paused!"
+msgstr "All sändning är för närvarande pausad!"
+
+#: lib/Config/ServicesChecker.php:54
+msgid "Purchase a key"
+msgstr "Köp en nyckel"
+
+#: lib/Util/Notices/UnauthorizedEmailInNewslettersNotice.php:70
+msgid "Fix this!"
+msgstr "Åtgärda detta!"
+
+#: lib/API/JSON/v1/Settings.php:236
+msgid "Can’t use this email yet! Please authorize it first."
+msgstr "Kan inte använda denna e-post ännu! Auktorisera det först."
+
+#: lib/API/JSON/v1/Settings.php:227 lib/API/JSON/v1/Settings.php:254
+#: lib/API/JSON/v1/Settings.php:284
+msgid "No email address specified."
+msgstr "Ingen e-postadress specificerad."
+
+#: lib/PostEditorBlocks/SubscriptionFormBlock.php:62
+msgid "Select a MailPoet form"
+msgstr "Välj ett formulär för MailPoet"
+
+#: lib/PostEditorBlocks/SubscriptionFormBlock.php:64
+msgid "MailPoet Subscription Form"
+msgstr "Prenumerationsformuär för MailPoet"
+
+#: mailpoet.php:130
+msgid "Please read our [link]instructions[/link] on how to upgrade your site."
+msgstr "Läs våra [link]instruktioner[/link] om hur du uppgraderar din webbplats."
+
+#: mailpoet.php:138
+msgid "If you can’t upgrade the PHP version, [link]install this version[/link] of MailPoet. Remember to not update MailPoet ever again!"
+msgstr "Om du inte kan uppgradera PHP-versionen, [link]ska du installera denna version[link] av MailPoet. Kom ihåg sedan inte uppdatera MailPoet igen!"
+
+#: mailpoet.php:127
+msgid "MailPoet requires PHP version 7.2 or newer (8.0 recommended). You are running version [version]."
+msgstr "MailPoet kräver PHP version 7.2 eller nyare (8.0 rekommenderas). Du kör version [version]."
+
+#: lib/API/JSON/v1/Services.php:212 assets/dist/js/commons.js:9
+msgid "Your key is not valid for MailPoet Premium"
+msgstr "Din nyckel är inte giltig för MailPoet Premium"
+
+#: lib/API/JSON/v1/Premium.php:40 lib/API/JSON/v1/Premium.php:62
+msgid "Premium key is not valid."
+msgstr "Premium-nyckeln är inte giltig."
+
+#: lib/API/JSON/v1/Premium.php:48 lib/API/JSON/v1/Premium.php:54
+msgid "Error when installing MailPoet Premium plugin."
+msgstr "Fel vid installation av tillägget MailPoet Premium."
+
+#: lib/API/JSON/v1/Premium.php:67
+msgid "Error when activating MailPoet Premium plugin."
+msgstr "Fel vid aktivering av tillägget MailPoet Premium."
+
+#: lib/API/JSON/v1/Services.php:143 assets/dist/js/commons.js:9
+msgid "Your key is not valid for the MailPoet Sending Service"
+msgstr "Din nyckel är inte giltig för MailPoets utskickstjänst"
+
+#: lib/AdminPages/Pages/Settings.php:106
+msgctxt "Notice in Settings when WooCommerce is not enabled"
+msgid "You need to have WooCommerce active to access the MailPoet email customizer for WooCommerce."
+msgstr "WooCommerce måste vara aktiverat för att komma åt MailPoets e-postanpassare för WooCommerce."
+
+#: lib/API/JSON/v1/Newsletters.php:181 lib/API/JSON/v1/SendingQueue.php:93
+#: lib/API/JSON/v1/SendingQueue.php:226 lib/Services/Bridge/API.php:372
+msgid "Subscribers limit reached."
+msgstr "Prenumerantbegränsning nådd."
+
+#: lib/API/JSON/v1/SendingTaskSubscribers.php:74
+#: lib/API/JSON/v1/SendingTaskSubscribers.php:127
+msgid "Newsletter not found!"
+msgstr "Nyhetsbrev hittades inte!"
+
+#: lib/Config/PopulatorData/Templates/Fitness.php:1205
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1658
+#: lib/WooCommerce/TransactionalEmails.php:59
+msgid "Thanks for shopping with us"
+msgstr "Tack för att du handlar av oss"
+
+#: lib/WooCommerce/TransactionalEmails.php:51
+msgid "New Order: #{order_number}"
+msgstr "Ny beställning: #{order_number}"
+
+#: lib/Config/PopulatorData/Templates/Fitness.php:1206
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1659
+#: lib/WooCommerce/TransactionalEmails.php:63
+msgid "A note has been added to your order"
+msgstr "En notis har lagts till i din beställning"
+
+#: lib/WooCommerce/TransactionalEmails.php:117
+msgctxt "Default footer text for a WooCommerce transactional email"
+msgid "Footer text"
+msgstr "Sidfotstext"
+
+#: lib/Form/Widget.php:156
+msgctxt "fallback for forms without a name in a form list"
+msgid "no name"
+msgstr "inget namn"
+
+#: lib/Config/PopulatorData/Templates/Fitness.php:1204
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1657
+#: lib/WooCommerce/TransactionalEmails.php:55
+msgid "Thank you for your order"
+msgstr "Tack för din beställning"
+
+#: lib/API/JSON/v1/DynamicSegments.php:89
+#: lib/API/JSON/v1/DynamicSegments.php:149
+#: lib/API/JSON/v1/DynamicSegments.php:200
+#: lib/API/JSON/v1/DynamicSegments.php:233
+#: lib/API/JSON/v1/DynamicSegments.php:254 lib/API/JSON/v1/Subscribers.php:259
+msgid "This segment does not exist."
+msgstr "Detta segment finns inte."
+
+#: lib/API/JSON/v1/AutomaticEmails.php:42
+#: lib/API/JSON/v1/AutomaticEmails.php:66
+msgid "Improperly formatted request."
+msgstr "Felaktigt formaterad begäran."
+
+#: lib/API/JSON/v1/AutomaticEmails.php:54
+msgid "Automatic email event filter does not exist."
+msgstr "Filter för automatisk e-posthändelse finns inte."
+
+#: lib/API/JSON/v1/AutomaticEmails.php:77
+msgid "Automatic email event does not exist."
+msgstr "Automatisk e-posthändelse finns inte."
+
+#: lib/API/JSON/v1/DynamicSegments.php:82
+#: lib/API/JSON/v1/DynamicSegments.php:193
+#: lib/API/JSON/v1/DynamicSegments.php:226
+#: lib/API/JSON/v1/DynamicSegments.php:247
+msgid "Missing mandatory argument `id`."
+msgstr "Det obligatoriska argumentet `id` saknas."
+
+#: lib/API/JSON/v1/DynamicSegments.php:157
+msgid "The segment type is missing."
+msgstr "Segmenttypen saknas."
+
+#: lib/API/JSON/v1/DynamicSegments.php:159
+msgid "The segment type is unknown."
+msgstr "Segmenttypen är okänd."
+
+#: lib/API/JSON/v1/DynamicSegments.php:166
+msgid "Please select an email."
+msgstr "Välj en e-postadress."
+
+#: lib/API/JSON/v1/DynamicSegments.php:186
+msgid "An error occurred while saving data."
+msgstr "Ett fel uppstod när informationen skulle sparas."
+
+#. translators: %s is the name of the category.
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:58
+msgid "Email sent when a customer buys a product in category: %s"
+msgstr "E-postmeddelande som skickas när en kund köper en produkt i kategorin: %s"
+
+#. translators: %s is the name of the category.
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:60
+msgid "Email sent when a customer buys a product in categories: %s"
+msgstr "E-postmeddelande som skickas när en kund köper en produkt i kategorierna: %s"
+
+#. translators: %s is the name of the product.
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:79
+msgid "Email sent when a customer buys product: %s"
+msgstr "E-postmeddelande som skickas när en kund köper produkten: %s"
+
+#. translators: %s is the name of the products.
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:81
+msgid "Email sent when a customer buys products: %s"
+msgstr "E-postmeddelande som skickas när en kund köper produkterna: %s"
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:55
+msgctxt "This is the name of a type for automatic email for ecommerce. Those emails are sent automatically every time a customer buys for the first time a product in a given category"
+msgid "Purchased In This Category"
+msgstr "Köpt i denna kategori"
+
+#: lib/API/JSON/v1/DynamicSegments.php:172
+msgid "Please select a category."
+msgstr "Välj en kategori."
+
+#: lib/API/JSON/v1/DynamicSegments.php:161
+msgid "Please select a user role."
+msgstr "Välj en användarroll."
+
+#: lib/API/JSON/v1/DynamicSegments.php:164
+msgid "Please select an email action."
+msgstr "Välj en e-poståtgärd."
+
+#: lib/API/JSON/v1/DynamicSegments.php:168
+msgid "Please select a product."
+msgstr "Välj en produkt."
+
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:110
+msgid "Order amount"
+msgstr "Orderbelopp"
+
+#. translators: %s is the name of the event.
+#: lib/AutomaticEmails/WooCommerce/WooCommerce.php:117
+msgid "Please contact our technical support for assistance."
+msgstr "Vänligen kontakta vår tekniska support för hjälp."
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:64
+msgid "Send an email to logged-in visitors who have items in their shopping carts but left your website without checking out. Can convert up to 5% of abandoned carts."
+msgstr "Skicka ett e-postmeddelande till inloggade besökare med artiklar i varukorgen men som lämnat webbplatsen utan att passera kassan. Kan konvertera upp till 5 procent av de övergivna varukorgarna."
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:92
+msgid "We recommend setting up 3 abandoned cart emails. Here’s why."
+msgstr "Vi rekommenderar att du konfigurerar 3 e-postmeddelanden för övergivna varukorgar. Här är varför."
+
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:80
+msgid "Email sent when a customer makes their first purchase."
+msgstr "E-postmeddelande som skickas när en kund gör sitt första köp."
+
+#. translators: %s is the name of the event.
+#: lib/AutomaticEmails/WooCommerce/WooCommerce.php:116
+msgid "WooCommerce %s event is misconfigured."
+msgstr "WooCommerce händelse %s är felaktigt konfigurerad."
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:63
+msgctxt "This is the name of a type of automatic email for ecommerce. Those emails are sent automatically when a customer adds product to his shopping cart but never complete the checkout process."
+msgid "Abandoned Shopping Cart"
+msgstr "Övergiven varukorg"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:65
+msgctxt "Description of Abandoned Shopping Cart email"
+msgid "Send the email when a customer abandons their cart."
+msgstr "Skicka e-postmeddelandet när en kund överger sin varukorg."
+
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:114
+msgid "Order date"
+msgstr "Beställningsdatum"
+
+#: lib/AutomaticEmails/WooCommerce/WooCommerce.php:76
+msgid "WooCommerce is required"
+msgstr "WooCommerce är obligatorisk"
+
+#: lib/API/JSON/API.php:199
+msgid "HTTP request method not allowed."
+msgstr "Metoden för HTTP-begäran tillåts inte."
+
+#: lib/Models/Newsletter.php:172
+msgid "This is an empty email without any content and it cannot be sent. Please update [link]the email[/link]."
+msgstr "Det här är ett tomt e-postmeddelande utan innehåll och det kan inte skickas. Uppdatera [link]e-postmeddelandet[/link]."
+
+#: lib/Subscription/Captcha/Validator/BuiltInCaptchaValidator.php:60
+msgid "Please fill in the CAPTCHA."
+msgstr "Fyll i CAPTCHA."
+
+#: lib/Subscription/CaptchaFormRenderer.php:157
+msgid "The characters you entered did not match the CAPTCHA image. Please try again with this new image."
+msgstr "Tecknen du angav stämmer inte överens med CAPTCHA-bilden. Försök igen med denna nya bild."
+
+#: lib/Config/Populator.php:300
+msgctxt "default email opt-in message displayed on checkout page for ecommerce websites"
+msgid "I would like to receive exclusive emails with discounts and product information"
+msgstr "Jag skulle vilja få exklusiva e-postmeddelanden med rabatter och produktinformation"
+
+#: lib/Config/Populator.php:367
+msgid "Newsletter mailing list"
+msgstr "E-postlista för nyhetsbrev"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:186
+msgid "... has a..."
+msgstr "… har en …"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:205
+msgid "3-column layout."
+msgstr "layout i 3 kolumner."
+
+#: lib/Config/PrivacyPolicy.php:48
+msgid "MailPoet creates and stores two cookies if you are using WooCommerce and MailPoet together. Those cookies are:"
+msgstr "MailPoet skapar och lagrar två cookies om du använder WooCommerce och MailPoet tillsammans. Dessa cookies är:"
+
+#. translators: %s is the number of days.
+#: lib/Config/PrivacyPolicy.php:55 lib/Config/PrivacyPolicy.php:64
+msgid "Cookie expiry: %s days."
+msgstr "Giltighetstid för cookie: %s dagar."
+
+#: lib/Config/PrivacyPolicy.php:57
+msgid "Cookie description: The purpose of this cookie is to track which newsletter sent from your website has acquired a click-through and a subsequent purchase in your WooCommerce store."
+msgstr "Beskrivning av cookie: Syftet med denna cookie är att spåra nyhetsbrev som skickas från din webbplats som förvärvar klick och efterföljande köp i din WooCommerce-butik."
+
+#: lib/Config/PrivacyPolicy.php:66
+msgid "Cookie description: The purpose of this cookie is to track a user that has abandoned their cart in your WooCommerce store to then be able to send them an abandoned cart newsletter from MailPoet."
+msgstr "Beskrivning av cookie: Syftet med denna cookie är att spåra användare som har övergett sin varukorg i din WooCommerce-butik, för att sedan kunna skicka dem ett nyhetsbrev om den övergivna varukorgen från MailPoet."
+
+#: lib/Config/PrivacyPolicy.php:69
+msgid "Note: User must be opted-in and a confirmed subscriber."
+msgstr "Obs: Användaren måste ha valt att prenumerera och vara en bekräftad prenumerant."
+
+#. translators: %s is the name of the cookie.
+#: lib/Config/PrivacyPolicy.php:52 lib/Config/PrivacyPolicy.php:61
+msgid "Cookie name: %s"
+msgstr "Cookie-namn: %s"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:167
+msgid "This template..."
+msgstr "Denna mall …"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:186
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:186
+msgid "... a 2-column layout."
+msgstr "… layout i 2 kolumner."
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:167
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:167
+msgid "This template has..."
+msgstr "Denna mall har …"
+
+#: lib/Subscription/CaptchaFormRenderer.php:88
+msgid "Subscribe"
+msgstr "Prenumerera"
+
+#. translators: %s is the number of seconds
+#: lib/Subscription/Throttling.php:78
+msgid "%d seconds"
+msgstr "%d sekunder"
+
+#. translators: %s is the number of minutes
+#: lib/Subscription/Throttling.php:76
+msgid "%d minutes"
+msgstr "%d minuter"
+
+#. translators: %s is the number of hours
+#: lib/Subscription/Throttling.php:74
+msgid "%d hours"
+msgstr "%d timmar"
+
+#: lib/Subscription/CaptchaFormRenderer.php:52
+msgid "Confirm you’re not a robot"
+msgstr "Bekräfta att du inte är en robot"
+
+#: lib/Subscription/Captcha/Validator/BuiltInCaptchaValidator.php:69
+msgid "Please regenerate the CAPTCHA."
+msgstr "Vänligen ladda om CAPTCHA."
+
+#: lib/Subscription/Captcha/Validator/BuiltInCaptchaValidator.php:79
+msgid "The characters entered do not match with the previous CAPTCHA."
+msgstr "Tecknen du angav stämmer inte överens med din senaste CAPTCHA."
+
+#: lib/Cron/Workers/StatsNotifications/AutomatedEmails.php:109
+msgid "Your monthly stats are in!"
+msgstr "Din månatliga statistik är klar!"
+
+#: lib/Subscription/CaptchaFormRenderer.php:80
+msgid "Type in the characters you see in the picture above:"
+msgstr "Skriv in de tecken du ser på bilden ovan:"
+
+#: lib/Cron/Workers/StatsNotifications/Worker.php:197
+msgid "Manage subscription link"
+msgstr "Länk för att hantera prenumeration"
+
+#: lib/Util/Notices/InactiveSubscribersNotice.php:61
+msgid "Go to the Advanced Settings"
+msgstr "Gå till avancerade inställningar"
+
+#: lib/API/JSON/v1/Newsletters.php:126 lib/API/JSON/v1/Newsletters.php:143
+#: lib/API/JSON/v1/Newsletters.php:188 lib/API/JSON/v1/Newsletters.php:247
+#: lib/API/JSON/v1/Newsletters.php:263 lib/API/JSON/v1/Newsletters.php:277
+#: lib/API/JSON/v1/Newsletters.php:294 lib/API/JSON/v1/Newsletters.php:309
+#: lib/API/JSON/v1/Newsletters.php:332 assets/dist/js/admin.js:2
+msgid "This email does not exist."
+msgstr "Den här e-postadressen finns inte."
+
+#: lib/API/JSON/v1/SendingTaskSubscribers.php:81
+msgid "This email has not been sent yet."
+msgstr "Det här e-postmeddelandet har inte skickats ännu."
+
+#: lib/API/JSON/v1/SendingTaskSubscribers.php:120
+msgid "Failed sending task not found!"
+msgstr "Misslyckades, utskicksaktiviteten hittades inte!"
+
+#. translators: %d is the number of inactive subscribers.
+#: lib/Util/Notices/InactiveSubscribersNotice.php:65
+msgid "Good news! MailPoet won’t send emails to your %s inactive subscribers. This is a standard practice to maintain good deliverability and open rates. But if you want to disable it, you can do so in settings. [link]Read more.[/link]"
+msgstr "Goda nyheter! MailPoet kommer inte att skicka e-post till dina %s inaktiva prenumeranter. Detta är praxis för att upprätthålla bra leveransbarhet och öppningsfrekvenser. Men om du vill inaktivera detta kan du göra det i inställningarna. [link]Läs mer.[/link]"
+
+#: lib/Util/Notices/UnauthorizedEmailInNewslettersNotice.php:52
+msgid "<b>Your automatic emails have been paused</b> because some email addresses haven’t been authorized yet."
+msgstr "<b>Dina automatiska utskick har pausats</b> för att vissa e-postadresser inte har auktoriserats ännu."
+
+#. translators: %s is the newsletter subject.
+#: lib/Util/Notices/UnauthorizedEmailInNewslettersNotice.php:60
+msgctxt "%s will be replaced by a newsletter subject"
+msgid "Update the from address of %s"
+msgstr "Uppdatera avsändaradressen för %s"
+
+#. translators: %s is the name of the type.
+#: lib/CustomFields/ApiDataSanitizer.php:94
+msgid "Invalid type \"%s\""
+msgstr "Ogiltig typ ”%s”"
+
+#. translators: %s is the name of the missing argument.
+#: lib/CustomFields/ApiDataSanitizer.php:38
+msgid "Mandatory argument \"%s\" is missing"
+msgstr "Det obligatoriska argumentet ”%s” saknas"
+
+#. translators: %s is the name of the malformed argument.
+#: lib/CustomFields/ApiDataSanitizer.php:42
+msgid "Mandatory argument \"%s\" has to be string"
+msgstr "Det obligatoriska argumentet ”%s” måste vara en sträng"
+
+#: lib/CustomFields/ApiDataSanitizer.php:48
+msgid "Params has to be array"
+msgstr "Parametrarna måste vara en array"
+
+#: lib/CustomFields/ApiDataSanitizer.php:103
+msgid "Validate parameter is not valid"
+msgstr "Ogiltig valideringsparameter"
+
+#: lib/CustomFields/ApiDataSanitizer.php:110
+msgid "You need to pass exactly one value for checkbox"
+msgstr "Du måste ange exakt ett värde för kryssrutan"
+
+#: lib/CustomFields/ApiDataSanitizer.php:129
+msgid "Invalid date_format for year_month_day"
+msgstr "Ogiltigt date_format (datumformat) för year_month_day (år_månad_dag)"
+
+#: lib/CustomFields/ApiDataSanitizer.php:135
+msgid "Invalid date_format for year_month"
+msgstr "Ogiltigt date_format (datumformat) för year_month (år_månad)"
+
+#: lib/CustomFields/ApiDataSanitizer.php:149
+msgid "Invalid value for date_type"
+msgstr "Ogiltigt värde för date_type (datumtyp)"
+
+#: lib/CustomFields/ApiDataSanitizer.php:159
+msgid "You need to pass some values for this type"
+msgstr "Du måste ange några värden för denna typ"
+
+#: lib/CustomFields/ApiDataSanitizer.php:170
+msgid "Value cannot be empty"
+msgstr "Värdet kan inte vara tomt"
+
+#: lib/Form/FormMessageController.php:30 lib/Form/FormMessageController.php:49
+#: lib/Form/Templates/FormTemplate.php:147
+msgid "You’ve been successfully subscribed to our newsletter!"
+msgstr "Du har lagts till som prenumerant för vårt nyhetsbrev utan problem!"
+
+#. translators: %s is the email address.
+#: lib/Util/Notices/UnauthorizedEmailNotice.php:61
+msgctxt "Email addresses have to be authorized to be used to send emails. %s will be replaced by an email address."
+msgid "<b>Sending all of your emails has been paused</b> because your email address <b>%s</b> hasn’t been authorized yet."
+msgstr "<b>Alla dina utskick har pausats</b> eftersom din e-postadress <b>%s</b> inte har auktoriserats ännu."
+
+#: lib/Config/AccessControl.php:83
+msgid "Manage features"
+msgstr "Hantera funktioner"
+
+#: lib/Config/Populator.php:299
+msgctxt "default email opt-in message displayed on checkout page for ecommerce websites"
+msgid "Yes, I would like to be added to your mailing list"
+msgstr "Ja, lägg till mig på er e-postlista"
+
+#: lib/Automation/Integrations/MailPoet/Subjects/SubscriberSubject.php:129
+#: lib/Subscribers/SubscriberListingRepository.php:229
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:211
+msgid "Inactive"
+msgstr "Inaktiv"
+
+#: lib/Config/PopulatorData/Templates/Photography.php:22
+msgid "Photography"
+msgstr "Fotografi"
+
+#: lib/Config/PopulatorData/Templates/Synagogue.php:22
+msgid "Synagogue"
+msgstr "Synagoga"
+
+#: lib/Config/PopulatorData/Templates/RockBand.php:22
+msgid "Rock Band"
+msgstr "Rockband"
+
+#: lib/Config/PopulatorData/Templates/Birds.php:22
+msgid "Birds"
+msgstr "Fåglar"
+
+#: lib/Config/PopulatorData/Templates/Poet.php:22
+msgid "Poet"
+msgstr "Poet"
+
+#: lib/Config/PopulatorData/Templates/Guitarist.php:22
+msgid "Guitarist"
+msgstr "Gitarrist"
+
+#: lib/Config/PopulatorData/Templates/Mosque.php:22
+msgid "Mosque"
+msgstr "Moské"
+
+#: lib/Config/PopulatorData/Templates/Motor.php:22
+msgid "Motor"
+msgstr "Motor"
+
+#: lib/Config/PopulatorData/Templates/JazzClub.php:22
+msgid "Jazz Club"
+msgstr "Jazzklubb"
+
+#: lib/Config/PopulatorData/Templates/Painter.php:22
+msgid "Painter"
+msgstr "Målare"
+
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:22
+msgid "Buddhist Temple"
+msgstr "Buddhistiskt tempel"
+
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:22
+msgid "Lifestyle Blog"
+msgstr "Livsstilsblogg"
+
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:22
+msgid "Fashion Blog"
+msgstr "Modeblogg"
+
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:22
+msgid "Makeup Blog"
+msgstr "Sminkblogg"
+
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:22
+msgid "Women Fashion Store"
+msgstr "Modebutik för kvinnor"
+
+#: lib/Config/PopulatorData/Templates/FashionShop.php:22
+msgid "Kids Shop"
+msgstr "Barnbutik"
+
+#: lib/Config/PopulatorData/Templates/WineCity.php:21
+msgid "Wine City (with coupon)"
+msgstr "Wine City (med rabattkod)"
+
+#: lib/Config/PopulatorData/Templates/Vlogger.php:22
+msgid "Vlogger"
+msgstr "Vlogger"
+
+#: lib/API/JSON/v1/UserFlags.php:33
+msgid "You have not specified any user flags to be saved."
+msgstr "Du har inte angett några användarflaggor som ska sparas."
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:121
+msgid "Unknown address"
+msgstr "Okänd adress"
+
+#: lib/Util/Notices/UnauthorizedEmailNotice.php:81 assets/dist/js/commons.js:9
+msgid "Resume sending"
+msgstr "Återstarta sändning"
+
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:22
+msgid "WordPress Theme"
+msgstr "WordPress-tema"
+
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:21
+msgid "Renewable Energy"
+msgstr "Förnybar energi"
+
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:22
+msgid "Primary School"
+msgstr "Grundskola"
+
+#: lib/Config/PopulatorData/Templates/College.php:22
+msgid "College"
+msgstr "Högskola"
+
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:21
+msgid "Branding Agency News"
+msgstr "Nyheter för varumärkesbyråer"
+
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:22
+msgid "City News"
+msgstr "Stadsnyheter"
+
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:22
+msgid "Computer Repair"
+msgstr "Datorreparatör"
+
+#: lib/Config/PopulatorData/Templates/Engineering.php:21
+msgid "Engineering"
+msgstr "Teknik"
+
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:21
+msgid "Farmers Market"
+msgstr "Odlarnas marknad"
+
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:21
+msgid "Healthy Food Blog"
+msgstr "Hälsomatblogg"
+
+#: lib/Config/PopulatorData/Templates/Software.php:21
+msgid "Software"
+msgstr "Mjukvara"
+
+#: lib/Subscribers/ImportExport/Import/MailChimp.php:139
+msgid "Unknown MailChimp error."
+msgstr "Okänt MailChimp-fel."
+
+#: lib/Models/Segment.php:164 lib/Segments/SegmentsRepository.php:80
+msgid "This list contains all of your WooCommerce customers."
+msgstr "Denna lista innehåller alla dina WooCommerce-kunder."
+
+#: lib/Models/Segment.php:162 lib/Segments/SegmentsRepository.php:78
+msgid "WooCommerce Customers"
+msgstr "WooCommerce-kunder"
+
+#. translators: %s is the subject of the email.
+#: lib/Cron/Workers/StatsNotifications/Worker.php:136
+msgctxt "title of an automatic email containing statistics (newsletter open rate, click rate, etc)"
+msgid "Stats for email %s"
+msgstr "Statistik för e-post %s"
+
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:22
+msgid "Book store (with coupon)"
+msgstr "Bokhandel (med rabattkod)"
+
+#: lib/Config/PopulatorData/Templates/ClearNews.php:22
+msgid "Clear News"
+msgstr "Tydliga nyheter"
+
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:22
+msgid "Flowers (with coupon)"
+msgstr "Blommor (med rabattkod)"
+
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:22
+msgid "Industry Conference"
+msgstr "Branschkonferens"
+
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:22
+msgid "Newspaper Traditional"
+msgstr "Traditionell tidning"
+
+#: lib/Cron/Workers/SendingQueue/Tasks/Newsletter.php:208
+msgid "No subject"
+msgstr "Inget ämne"
+
+#. translators: %s is name of the segment.
+#: lib/Subscribers/NewSubscriberNotificationMailer.php:98
+msgid "New subscriber to %s"
+msgstr "Ny prenumerant på %s"
+
+#: lib/Mailer/MailerError.php:100
+msgid "Unprocessed subscriber:"
+msgstr "Obearbetad prenumerant:"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterClicksExporter.php:24
+msgid "URL"
+msgstr "URL"
+
+#: lib/Config/PopulatorData/Templates/Music.php:21
+msgid "Music"
+msgstr "Musik"
+
+#: lib/Config/PopulatorData/Templates/DogFood.php:22
+msgid "Dog Food"
+msgstr "Hundmat"
+
+#: lib/Config/PopulatorData/Templates/Coffee.php:22
+msgid "Coffee"
+msgstr "Kaffe"
+
+#: lib/Config/PopulatorData/Templates/Hotels.php:22
+msgid "Hotels"
+msgstr "Hotell"
+
+#: lib/Config/PopulatorData/Templates/Sunglasses.php:21
+msgid "Sunglasses"
+msgstr "Solglasögon"
+
+#: lib/Config/PopulatorData/Templates/Retro.php:22
+msgid "Retro"
+msgstr "Retro"
+
+#: lib/Config/PopulatorData/Templates/Minimal.php:22
+msgid "Minimal"
+msgstr "Minimal"
+
+#: lib/Config/PopulatorData/Templates/FashionStore.php:22
+msgid "Fashion Store"
+msgstr "Modebutik"
+
+#: lib/Config/PopulatorData/Templates/Avocado.php:22
+msgid "Avocado"
+msgstr "Avokado"
+
+#: lib/Config/PopulatorData/Templates/Charity.php:22
+msgid "Charity"
+msgstr "Välgörenhet"
+
+#: lib/Config/PopulatorData/Templates/Drone.php:22
+msgid "Drone"
+msgstr "Drönare"
+
+#: lib/Config/PopulatorData/Templates/GiftWelcome.php:22
+msgid "Gift Welcome"
+msgstr "Välkomstgåva"
+
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:22
+msgid "Modular Style Stories"
+msgstr "Berättelser med modulär stil"
+
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:22
+msgid "One Full Post In An Email"
+msgstr "Ett helt inlägg i ett e-postmeddelande"
+
+#: lib/Config/PopulatorData/Templates/Phone.php:22
+msgid "New Phone Purchase"
+msgstr "Nytt telefonköp"
+
+#: lib/Config/PopulatorData/Templates/RealEstate.php:22
+msgid "Real Estate"
+msgstr "Fastigheter"
+
+#: lib/Config/PopulatorData/Templates/RetroComputingMagazine.php:21
+msgid "Retro Computing Magazine"
+msgstr "Äldre datortidsskrift"
+
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:21
+msgid "Stripped RSS Style Layout"
+msgstr "Avskalad RSS-stillayout"
+
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:21
+msgid "Wide Story Layout"
+msgstr "Bred historialayout"
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:106
+msgid "Invalid MSS response format."
+msgstr "Ogiltigt svarsformat för MSS."
+
+#: lib/Util/Notices/AfterMigrationNotice.php:38
+msgid "Congrats! You’re progressing well so far. Complete your upgrade thanks to this [link]checklist[/link]."
+msgstr "Grattis! Det går bra än så länge. Slutför uppgraderingen med hjälp av denna [link]checklista[/link]."
+
+#: lib/Config/Menu.php:191 lib/Config/Menu.php:192
+msgid "Welcome Wizard"
+msgstr "Välkomstguide"
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:64
+msgid "JSON input is not an array"
+msgstr "JSON-inmatning är inte en array"
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:88
+msgid "Email service is temporarily not available, please try again in a few minutes."
+msgstr "E-posttjänsten är för närvarande inte tillgänglig, försök igen om några minuter."
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:68
+msgid "Error while sending."
+msgstr "Fel vid utskick."
+
+#: lib/API/JSON/v1/Services.php:154
+msgid "Note that it doesn't work on localhost."
+msgstr "Observera att det inte fungerar på localhost."
+
+#: lib/AutomaticEmails/WooCommerce/WooCommerce.php:68
+#: assets/dist/js/commons.js:9
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: lib/AutomaticEmails/WooCommerce/Events/AbandonedCart.php:68
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:83
+msgid "Must-have"
+msgstr "Måste-ha"
+
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:78
+msgid "First Purchase"
+msgstr "Första köpet"
+
+#: lib/AutomaticEmails/WooCommerce/Events/FirstPurchase.php:79
+msgid "Let MailPoet send an email to customers who make their first purchase."
+msgstr "Låt MailPoet skicka ett e-postmeddelande till kunder som gör sitt första köp."
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedProduct.php:76
+msgid "Purchased This Product"
+msgstr "Köpte denna produkt"
+
+#: lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php:56
+msgid "Let MailPoet send an email to customers who purchase a product for the first time in a specific category."
+msgstr "Låt MailPoet skicka ett e-postmeddelande till kunder som köper en produkt för första gången i en viss kategori."
+
+#: lib/Subscription/Captcha/Validator/RecaptchaValidator.php:35
+msgid "Please check the CAPTCHA."
+msgstr "Kontrollera CAPTCHA."
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:116
+msgid "Subscriber's subscription source"
+msgstr "Prenumerationskälla för prenumerant"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:141
+msgid "Subscriber information synchronized via WP user sync"
+msgstr "Prenumerantens information synkroniserad via WP användarsynkronisering"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:143
+msgid "Subscription via a MailPoet subscription form"
+msgstr "Prenumeration via ett prenumerationsformulär i MailPoet"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:147
+msgid "Created by the administrator"
+msgstr "Skapad av administratören"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:149
+msgid "Imported by the administrator"
+msgstr "Importerad av administratören"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterClicksExporter.php:31
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterOpensExporter.php:27
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:151
+#: assets/dist/js/admin.js:2
+msgid "Unknown"
+msgstr "Okänt"
+
+#: lib/Config/PersonalDataErasers.php:19
+msgid "MailPoet Subscribers"
+msgstr "MailPoet-prenumeranter"
+
+#: lib/Config/PersonalDataExporters.php:71
+msgid "MailPoet Email Clicks"
+msgstr "MailPoet e-postklick"
+
+#: lib/Config/PrivacyPolicy.php:22
+msgid "MailPoet newsletter & emails"
+msgstr "MailPoet nyhetsbrev och e-post"
+
+#: lib/Config/PrivacyPolicy.php:25
+msgid "If you have subscribed to our newsletter or if you are a member of our website (you can log in) or if you have purchased on our website, there is a good chance you will receive emails from us."
+msgstr "Om du prenumererar på vårt nyhetsbrev eller om du är medlem på vår hemsida (du kan logga in) eller om du har köpt något på vår hemsida, finns det en stor chans att du kommer att få e-post från oss."
+
+#: lib/Config/PrivacyPolicy.php:28
+msgid "We will only send you emails which you have signed up to receive, or which pertain to the services we provided to you."
+msgstr "Vi skickar endast e-post till dig som du har valt att ta emot, eller som avser de tjänster som vi tillhandahåller till dig."
+
+#: lib/Config/PrivacyPolicy.php:31
+msgid "To send you emails, we use the name and email address you provide us. Our site also logs the IP address you used when you signed up for the service to prevent abuse of the system."
+msgstr "För att skicka e-post till dig använder vi namnet och e-postadressen du ger oss. För att förhindra missbruk av systemet loggar vår webbplats även den IP-adress du använde när du anmälde dig till tjänsten."
+
+#: lib/Config/PrivacyPolicy.php:35
+msgid "This website can send emails through the [link]MailPoet Sending Service[/link]. This service allows us to track opens and clicks on our emails. We use this information to improve the content of our newsletters."
+msgstr "Denna webbplats kan skicka e-post via [link]MailPoets utskickstjänst[/link]. Denna tjänst gör det möjligt för oss att spåra öppningar och klick i våra e-postmeddelanden. Vi använder denna information för att förbättra innehållet i våra nyhetsbrev."
+
+#: lib/Config/PrivacyPolicy.php:41
+msgid "No identifiable information is otherwise tracked outside this website except for the email address."
+msgstr "Ingen identifierbar information spåras annars utanför denna webbplats förutom e-postadressen."
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterClicksExporter.php:20
+msgid "Timestamp of the click event"
+msgstr "Tidsstämpel för klickhändelsen"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterClicksExporter.php:41
+msgid "MailPoet Emails Clicks"
+msgstr "Klick i MailPoet-utskick"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:85
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:94
+msgid "Opened"
+msgstr "Öppnat"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:89
+msgid "Opened at"
+msgstr "Öppnades"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:95
+#: assets/dist/js/admin.js:2 assets/dist/js/automation_editor.js:1
+msgid "No"
+msgstr "Nej"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:95
+msgid "Created at"
+msgstr "Skapad"
+
+#: lib/Config/PersonalDataExporters.php:46
+msgid "MailPoet Lists"
+msgstr "MailPoet listor"
+
+#: lib/Config/PersonalDataExporters.php:54
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:52
+msgid "MailPoet Subscriber Data"
+msgstr "MailPoet prenumerantuppgifter"
+
+#: lib/Config/PersonalDataExporters.php:63
+msgid "MailPoet Emails"
+msgstr "MailPoet e-post"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:100
+msgid "Email preview"
+msgstr "Förhandsvisning av e-post"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:109
+msgid "MailPoet Emails Sent"
+msgstr "MailPoet e-post skickade"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SegmentsExporter.php:59
+msgid "List name"
+msgstr "Listnamn"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SegmentsExporter.php:63
+msgid "Subscription status"
+msgstr "Prenumerationsstatus"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SegmentsExporter.php:67
+msgid "Timestamp of the subscription (or last change of the subscription status)"
+msgstr "Tidsstämpel för prenumerationen (eller senaste ändring av prenumerationsstatus)"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SegmentsExporter.php:72
+msgid "MailPoet Mailing Lists"
+msgstr "MailPoet e-postlistor"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:84
+msgid "Subscribed IP"
+msgstr "Prenumererat från IP"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:90
+msgid "Confirmed IP"
+msgstr "Bekräftat från IP"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterClicksExporter.php:16
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewsletterOpensExporter.php:16
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:74
+msgid "Email subject"
+msgstr "E-postämne"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/NewslettersExporter.php:78
+msgid "Sent at"
+msgstr "Skickad kl."
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:75
+msgctxt "Subscription status"
+msgid "List status"
+msgstr "Liststatus"
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:76
+msgctxt "Subscription status"
+msgid "Global status"
+msgstr "Global status"
+
+#: lib/Subscription/Captcha/Validator/RecaptchaValidator.php:47
+#: lib/Subscription/Captcha/Validator/RecaptchaValidator.php:51
+msgid "Error while validating the CAPTCHA."
+msgstr "Fel vid validering av CAPTCHA."
+
+#: lib/Subscription/Pages.php:437
+msgid "Subscription management form is only available to mailing lists subscribers."
+msgstr "Formuläret för att hantera prenumerationen är endast tillgängligt för prenumeranter på listan."
+
+#: lib/Subscription/Pages.php:489
+msgid "Link to subscription management page is only available to mailing lists subscribers."
+msgstr "Länken till sidan för att hantera prenumerationen är endast tillgänglig för prenumeranter på listan."
+
+#. translators: %s is the number of minimum WordPress version that MailPoet
+#. requires
+#: mailpoet.php:80
+msgid "MailPoet plugin requires WordPress version %s or newer. Please read our [link]instructions[/link] on how to resolve this issue."
+msgstr "MailPoet kräver WordPress version 5.6 eller nyare. Läs våra [link]instruktioner[/link] om hur man löser detta problem."
+
+#: lib/API/MP/v1/Subscribers.php:354
+msgid "At least one segment ID is required."
+msgstr "Åtminstone ett segment-ID krävs."
+
+#. translators: %s is the count of lists
+#: lib/API/MP/v1/Subscribers.php:440
+msgid "List with ID %s does not exist."
+msgid_plural "Lists with IDs %s do not exist."
+msgstr[0] "Lista med ID %s finns inte."
+msgstr[1] "Listor med ID %s finns inte."
+
+#: lib/API/MP/v1/Segments.php:164
+msgid "List name is required."
+msgstr "Listnamn krävs."
+
+#: lib/API/MP/v1/Segments.php:171
+msgid "This list already exists."
+msgstr "Denna lista finns redan."
+
+#: lib/Form/Block/BlockRendererHelper.php:65
+msgid "This field is required."
+msgstr "Detta fält är obligatoriskt."
+
+#: lib/API/JSON/API.php:118
+msgid "Sorry, but we couldn't connect to the MailPoet server. Please refresh the web page and try again."
+msgstr "Vi kunde inte ansluta till MailPoet-servern. Ladda om sidan och försök igen."
+
+#: lib/Config/AccessControl.php:81
+msgid "Admin menu item"
+msgstr "Menyobjekt i admin-menyn"
+
+#: lib/Config/AccessControl.php:82
+msgid "Manage settings"
+msgstr "Hantera inställningar"
+
+#: lib/Config/AccessControl.php:84
+msgid "Manage emails"
+msgstr "Hantera e-post"
+
+#: lib/Config/AccessControl.php:85
+msgid "Manage subscribers"
+msgstr "Hantera prenumeranter"
+
+#: lib/Config/AccessControl.php:86
+msgid "Manage forms"
+msgstr "Hantera formulär"
+
+#: lib/Config/AccessControl.php:87
+msgid "Manage segments"
+msgstr "Hantera segment"
+
+#: lib/API/JSON/API.php:195
+msgid "Invalid API endpoint method."
+msgstr "Ogiltig metod för API-ändpunkt."
+
+#: lib/Config/Initializer.php:206
+msgid "Unable to connect to the database (the database is unable to open a file or folder), the connection is likely not configured correctly. Please read our [link] Knowledge Base article [/link] for steps how to resolve it."
+msgstr "Det gick inte att ansluta till databasen (databasen kan inte öppna en fil eller mapp), anslutningen är troligen inte korrekt konfigurerad. Läs vår [link]Kunskapsbas-artikel[/link] för hur du löser det steg för steg."
+
+#: lib/Config/ServicesChecker.php:99
+msgid "[link1]Register[/link1] your copy of the MailPoet Premium plugin to receive access to automatic upgrades and support. Need a license key? [link2]Purchase one now.[/link2]"
+msgstr "[link1]Registrera[/link1] din kopia av premiumtillägget för MailPoet för att få tillgång till automatiska uppgraderingar och support. Behöver du en licensnyckel? [link2]Köp en nu.[/link2]"
+
+#: lib/Form/Renderer.php:90
+msgid "Please leave this field empty"
+msgstr "Lämna detta fält tomt"
+
+#: lib/API/JSON/v1/Services.php:146
+msgid "Your MailPoet Sending Service key is already used on another site"
+msgstr "Din nyckel för MailPoets utskickstjänst används redan på en annan webbplats"
+
+#: lib/Subscribers/SubscriberSubscribeController.php:105
+msgid "Please leave the first field empty."
+msgstr "Lämna första fältet tomt."
+
+#. Description of the plugin
+msgid "Create and send newsletters, post notifications and welcome emails from your WordPress."
+msgstr "Skapa och skicka nyhetsbrev, inläggsaviseringar och välkomstmeddelanden från din WordPress-installation."
+
+#: lib/Models/SendingQueue.php:39
+msgid "Rendered newsletter body is invalid!"
+msgstr "Renderad body för nyhetsbrev är ogiltig!"
+
+#: lib/Cron/Workers/SendingQueue/Tasks/Newsletter.php:288
+msgid "There was an error processing your newsletter during sending. If possible, please contact us and report this issue."
+msgstr "Ett fel inträffade under bearbetning när ditt nyhetsbrev skulle skickas. Om möjligt, vänligen kontakta oss och rapportera detta problem."
+
+#: lib/API/JSON/v1/Services.php:313
+msgid "Service unavailable"
+msgstr "Tjänsten är inte tillgänglig"
+
+#: lib/API/JSON/v1/Services.php:316
+msgid "Contact your hosting support to check the connection between your host and https://bridge.mailpoet.com"
+msgstr "Kontakta supporten för ditt webbhotell för att kontrollera anslutningen mellan din server och https://bridge.mailpoet.com"
+
+#. translators: %s is the code.
+#: lib/API/JSON/v1/Services.php:320
+msgctxt "Error code (inside parentheses)"
+msgid "code: %s"
+msgstr "kod: %s"
+
+#: lib/Config/Menu.php:429 lib/Config/Menu.php:430
+msgid "Help"
+msgstr "Hjälp"
+
+#: lib/Config/PopulatorData/Templates/AppWelcome.php:22
+msgid "App Welcome"
+msgstr "App-Välkommen"
+
+#: lib/Config/PopulatorData/Templates/Faith.php:22
+msgid "Faith"
+msgstr "Tro"
+
+#: lib/Config/PopulatorData/Templates/FestivalEvent.php:22
+msgid "Festival Event"
+msgstr "Festivalevenemang"
+
+#: lib/Config/PopulatorData/Templates/FoodBox.php:22
+msgid "Welcome to FoodBox"
+msgstr "Välkommen till FoodBox"
+
+#: lib/Config/PopulatorData/Templates/NewsDay.php:22
+msgid "News Day"
+msgstr "Nyhetsdag"
+
+#: lib/Config/PopulatorData/Templates/PieceOfCake.php:22
+msgid "Piece of cake"
+msgstr "Lätt som en plätt"
+
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:21
+msgid "Science Weekly"
+msgstr "Vetenskap veckovis"
+
+#: lib/Config/PopulatorData/Templates/Shoes.php:21
+msgid "Shoes"
+msgstr "Skor"
+
+#: lib/Config/PopulatorData/Templates/TakeAHike.php:21
+msgid "Take a Hike"
+msgstr "Gå iväg"
+
+#: lib/Config/PopulatorData/Templates/WorldCup.php:21
+msgid "World Cup"
+msgstr "Världscupen"
+
+#: lib/Config/PopulatorData/Templates/YogaStudio.php:21
+msgid "Yoga Studio"
+msgstr "Yogastudio"
+
+#: lib/Form/AssetsController.php:97
+msgid "An error has happened while performing a request, please try again later."
+msgstr "Ett fel inträffade när en begäran utfördes, vänligen försök igen senare."
+
+#: lib/Config/PluginActivatedHook.php:21
+msgid "We noticed that you're using an unsupported environment. While MailPoet might work within a MultiSite environment, we don’t support it."
+msgstr "Vi har märkt att du använder en miljö som inte stöds. MailPoet kan eventuellt fungera inom en MultiSite-miljö, men vi stöder det inte."
+
+#: mailpoet.php:175
+msgid "MailPoet plugin cannot run under Microsoft's Internet Information Services (IIS) web server. We recommend that you use a web server powered by Apache or NGINX."
+msgstr "Tillägget MailPoet kan inte köras under Microsofts Internet Information Services (IIS) webbserver. Vi rekommenderar att du använder en webbserver som drivs av Apache eller NGINX."
+
+#. translators: %s is the expiration date.
+#: lib/API/JSON/v1/Services.php:128
+msgid "Your MailPoet Sending Service key expires on %s!"
+msgstr "Din nyckel för MailPoets utskickstjänst upphör %s!"
+
+#. translators: %s is the error message.
+#: lib/API/JSON/v1/Services.php:151
+msgid "Error validating MailPoet Sending Service key, please try again later (%s)."
+msgstr "Fel vid valideringen av nyckeln för MailPoets utskickstjänst. Försök igen senare (%s)."
+
+#: lib/Subscribers/ImportExport/Import/Import.php:148
+msgid "No valid subscribers were found."
+msgstr "Inga giltiga prenumeranter hittades."
+
+#: lib/API/JSON/v1/Services.php:122
+msgid "Your MailPoet Sending Service key has been successfully validated"
+msgstr "Din nyckel för MailPoets utskickstjänst har validerats"
+
+#. translators: %s is the expiration date.
+#: lib/API/JSON/v1/Services.php:194
+msgid "Your Premium key expires on %s"
+msgstr "Din premium-nyckel gäller till %s"
+
+#: lib/API/API.php:22
+msgid "Invalid API version."
+msgstr "Ogiltig API-version."
+
+#: lib/API/MP/v1/Subscribers.php:116
+msgid "Subscriber email address is required."
+msgstr "Prenumerantens e-postadress krävs."
+
+#: lib/API/MP/v1/Subscribers.php:124
+msgid "This subscriber already exists."
+msgstr "Den här prenumeranten finns redan."
+
+#: lib/API/MP/v1/Segments.php:151
+msgid "The list does not exist."
+msgstr "Listan finns inte."
+
+#. translators: %s is the error message.
+#: lib/API/JSON/v1/Services.php:221
+msgid "Error validating Premium key, please try again later (%s)"
+msgstr "Det gick inte att validera premium-nyckeln, försök igen senare (%s)"
+
+#. translators: %s is a date.
+#: lib/Config/ServicesChecker.php:124
+msgid "Your License Key for MailPoet is expiring! Don't forget to [link]renew your license[/link] by %s to keep enjoying automatic updates and Premium support."
+msgstr "Din licensnyckel för MailPoet upphör! Glöm inte att [link]förnya din licens[/link] genom att %s för att fortsätta njuta av automatiska uppdateringar och Premium-support."
+
+#: lib/API/JSON/v1/Services.php:215
+msgid "Your Premium key is already used on another site"
+msgstr "Din premium-nyckel används redan på en annan webbplats"
+
+#: lib/API/JSON/v1/Services.php:188
+msgid "Your Premium key has been successfully validated"
+msgstr "Din premium-nyckel har validerats"
+
+#: lib/API/JSON/API.php:146
+msgid "Invalid API request."
+msgstr "Ogiltig API-begäran."
+
+#: lib/API/JSON/API.php:190
+msgid "Invalid API endpoint."
+msgstr "Ogiltig API-ändpunkt."
+
+#: lib/Config/RequirementsChecker.php:72
+msgid "MailPoet requires a PDO_MYSQL PHP extension. Please read our [link]instructions[/link] on how to resolve this issue."
+msgstr "MailPoet kräver PHP-tillägget PDO_MYSQL. Läs våra [link]instruktioner[/link] om hur man löser detta problem."
+
+#: lib/Config/RequirementsChecker.php:82
+msgid "MailPoet requires an XML PHP extension. Please read our [link]instructions[/link] on how to resolve this issue."
+msgstr "MailPoet kräver PHP-tillägget XML. Läs våra [link]instruktioner[/link] om hur man löser detta problem."
+
+#: lib/Subscribers/ImportExport/Import/Import.php:136
+msgid "Missing or invalid import data."
+msgstr "Importdata saknas eller är ogiltigt."
+
+#: lib/Mailer/MailerError.php:102
+msgid "Unprocessed subscribers:"
+msgstr "Obearbetade abonnenter:"
+
+#: lib/API/JSON/v1/Services.php:95 lib/API/JSON/v1/Services.php:171
+msgid "Please specify a key."
+msgstr "Vänligen ange en nyckel."
+
+#. translators: %s is a date.
+#: lib/Config/ServicesChecker.php:68
+msgid "Your newsletters are awesome! Don't forget to [link]upgrade your MailPoet email plan[/link] by %s to keep sending them to your subscribers."
+msgstr "Dina nyhetsbrev är fantastiskt bra! Glöm inte att [link]uppgradera din plan för MailPoet e-post[/link] med %s för att fortsätta skicka dem till dina prenumeranter."
+
+#: lib/Mailer/Methods/ErrorMappers/MailPoetMapper.php:51
+msgid "MailPoet API key is invalid!"
+msgstr "API-nyckeln för MailPoet är ogiltig!"
+
+#: lib/Subscribers/ImportExport/Export/Export.php:90
+msgid "The export file could not be saved on the server."
+msgstr "Exportfilen kunde inte sparas på servern."
+
+#: lib/Subscribers/SubscriberSubscribeController.php:270
+msgid "Please specify a valid form ID."
+msgstr "Ange ett giltigt formulärs-ID."
+
+#: lib/Models/Newsletter.php:230
+msgid "Deleted list"
+msgstr "Borttagen lista"
+
+#. translators: %s is the dependency.
+#: lib/Config/RequirementsChecker.php:95
+msgid "A MailPoet dependency (%s) does not appear to be loaded correctly, thus MailPoet will not work correctly. Please reinstall the plugin."
+msgstr "En modul som MailPoet är beroende av (%s) verkar inte laddas korrekt, något som kan leda till att MailPoet inte fungerar korrekt. Vänligen installera om tillägget."
+
+#. translators: %s is the error message.
+#. translators: %s contains the actual error message.
+#: lib/API/JSON/v1/Mailer.php:80
+#: lib/Newsletter/Preview/SendPreviewController.php:85
+msgid "The email could not be sent: %s"
+msgstr "E-postmeddelandet kunde inte skickas: %s"
+
+#: lib/Mailer/MailerLog.php:102
+msgid "Sending has been paused."
+msgstr "Utskicket har pausats."
+
+#: lib/Mailer/MailerLog.php:105
+msgid "Sending is waiting to be retried."
+msgstr "Utskicket väntar på nytt försök."
+
+#. translators: %s is the name of the method.
+#: lib/Mailer/Methods/ErrorMappers/AmazonSESMapper.php:35
+#: lib/Mailer/Methods/ErrorMappers/BlacklistErrorMapperTrait.php:14
+#: lib/Mailer/Methods/ErrorMappers/PHPMailerMapper.php:26
+#: lib/Mailer/Methods/ErrorMappers/SendGridMapper.php:22
+msgid "%s has returned an unknown error."
+msgstr "%s returnerade ett okänt fel."
+
+#: lib/Automation/Integrations/MailPoet/Subjects/SubscriberSubject.php:133
+#: lib/Subscribers/SubscriberListingRepository.php:234
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:199
+msgid "Bounced"
+msgstr "Har studsat"
+
+#: lib/Config/RequirementsChecker.php:51
+msgid "MailPoet requires write permissions inside the /wp-content/uploads folder. Please read our [link]instructions[/link] on how to resolve this issue."
+msgstr "MailPoet kräver skrivbehörighet i katalogen /wp-content/uploads. Läs våra [link]instruktioner[/link] om hur man löser detta problem."
+
+#: mailpoet.php:189
+msgid "MailPoet cannot start because it is missing core files. Please reinstall the plugin."
+msgstr "MailPoet kan inte startas eftersom kärnfiler saknas. Vänligen installera om tillägget."
+
+#: lib/Form/Block/BlockRendererHelper.php:59
+#: lib/Subscribers/SubscriberSubscribeController.php:259
+msgid "Please select a list."
+msgstr "Välj en lista."
+
+#. translators: %s is the amount of time the user has to wait.
+#: lib/Subscribers/SubscriberSubscribeController.php:142
+msgid "You need to wait %s before subscribing again."
+msgstr "Du måste vänta %s innan du kan prenumerera igen."
+
+#: lib/Form/Util/Export.php:63
+msgid "BEGIN Scripts: you should place them in the header of your theme"
+msgstr "START-skript: du bör placera dem i headern för ditt tema"
+
+#: lib/Form/Util/Export.php:95
+msgid "END Scripts"
+msgstr "AVSLUTNINGS-skript"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:195
+msgid "<h3>What's Next?</h3>"
+msgstr "<h3>Vad händer härnäst?</h3>"
+
+#: lib/API/JSON/API.php:214 lib/Router/Router.php:60
+msgid "You do not have the required permissions."
+msgstr "Du saknar den behörighet som krävs."
+
+#: lib/API/JSON/Endpoint.php:32 lib/API/JSON/ErrorHandler.php:17
+#: lib/API/JSON/ErrorResponse.php:28 lib/API/REST/API.php:87
+#: assets/dist/js/automation.js:9 assets/dist/js/automation_editor.js:1
+#: assets/dist/js/commons.js:2
+msgid "An unknown error occurred."
+msgstr "Ett okänt fel har inträffat."
+
+#: lib/API/JSON/Endpoint.php:41
+msgid "Invalid request parameters"
+msgstr "Ogiltiga parametrar för begäran"
+
+#: lib/API/JSON/v1/CustomFields.php:56 lib/API/JSON/v1/CustomFields.php:80
+msgid "This custom field does not exist."
+msgstr "Detta anpassade fält finns inte."
+
+#: lib/API/JSON/v1/Forms.php:102 lib/API/JSON/v1/Forms.php:120
+#: lib/API/JSON/v1/Forms.php:271 lib/API/JSON/v1/Forms.php:287
+#: lib/API/JSON/v1/Forms.php:301 lib/API/JSON/v1/Forms.php:323
+msgid "This form does not exist."
+msgstr "Detta formulär finns inte."
+
+#: lib/API/JSON/v1/Forms.php:177
+msgid "New form"
+msgstr "Nytt formulär"
+
+#: lib/API/MP/v1/CustomFields.php:30
+#: lib/Form/Templates/Templates/InitialForm.php:25
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:63
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:74
+#: assets/dist/js/automation_editor.js:1
+msgid "Email"
+msgstr "E-post"
+
+#: lib/Form/Templates/Templates/InitialForm.php:38
+msgid "Submit"
+msgstr "Skicka"
+
+#: lib/Form/Templates/Templates/InitialForm.php:41
+msgid "Subscribe!"
+msgstr "Prenumerera!"
+
+#: lib/Form/FormMessageController.php:29 lib/Form/FormMessageController.php:31
+#: lib/Form/FormMessageController.php:47
+#: lib/Form/Templates/FormTemplate.php:145
+msgid "Check your inbox or spam folder to confirm your subscription."
+msgstr "Kontrollera din inkorg eller skräppostmapp för att bekräfta din prenumeration."
+
+#. translators: %s is the original automation name.
+#. translators: %s is name of the form which has been duplicated.
+#. translators: %s is the subject of the mail which has been copied.
+#. translators: %s is the name of the segment
+#: lib/Automation/Engine/Builder/DuplicateAutomationController.php:55
+#: lib/Form/FormSaveController.php:31
+#: lib/Newsletter/NewsletterSaveController.php:183
+#: lib/Segments/DynamicSegments/SegmentSaveController.php:53
+#: lib/Segments/SegmentSaveController.php:50
+msgid "Copy of %s"
+msgstr "Kopia av %s"
+
+#: lib/API/JSON/v1/NewsletterTemplates.php:63
+#: lib/API/JSON/v1/NewsletterTemplates.php:104
+msgid "This template does not exist."
+msgstr "Denna mall finns inte."
+
+#: lib/API/JSON/v1/SendingQueue.php:106 lib/API/JSON/v1/SendingQueue.php:112
+#: lib/API/JSON/v1/SendingQueue.php:218 lib/API/JSON/v1/SendingQueue.php:249
+msgid "This newsletter does not exist."
+msgstr "Detta nyhetsbrev finns inte."
+
+#: lib/API/JSON/v1/Forms.php:111 lib/API/JSON/v1/Newsletters.php:175
+msgid "You need to specify a status."
+msgstr "Du måste ange en status."
+
+#: lib/API/JSON/v1/Newsletters.php:302
+msgid "Newsletter data is missing."
+msgstr "Nyhetsbrevsdata saknas."
+
+#: lib/API/JSON/v1/Newsletters.php:325
+msgid "Please specify receiver information."
+msgstr "Ange mottagarinformation."
+
+#: lib/API/JSON/v1/SendingQueue.php:140
+msgid "This newsletter is already being sent."
+msgstr "Detta nyhetsbrev håller redan på att skickas."
+
+#: lib/API/JSON/v1/SendingQueue.php:174
+msgid "There are no subscribers in that list!"
+msgstr "Det finns inga prenumeranter i den listan!"
+
+#: lib/API/JSON/v1/SendingQueue.php:210 lib/API/JSON/v1/SendingQueue.php:240
+msgid "This newsletter has not been sent yet."
+msgstr "Detta nyhetsbrev har inte skickats ännu."
+
+#: lib/API/JSON/v1/Settings.php:142
+msgid "You have not specified any settings to be saved."
+msgstr "Du har inte angett några inställningar som behöver sparas."
+
+#: lib/API/JSON/v1/Subscribers.php:92 lib/API/JSON/v1/Subscribers.php:186
+#: lib/API/JSON/v1/Subscribers.php:202 lib/API/JSON/v1/Subscribers.php:214
+#: lib/API/JSON/v1/Subscribers.php:244 lib/API/JSON/v1/SubscriberStats.php:41
+#: lib/API/MP/v1/Subscribers.php:381
+msgid "This subscriber does not exist."
+msgstr "Denna prenumerant finns inte."
+
+#: lib/API/MP/v1/CustomFields.php:38
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:64
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:160
+msgid "First name"
+msgstr "Förnamn"
+
+#: lib/API/MP/v1/CustomFields.php:46
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:65
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:169
+msgid "Last name"
+msgstr "Efternamn"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: lib/Config/Capabilities.php:83 lib/Config/Menu.php:204
+#: lib/Config/Menu.php:205 lib/Config/Menu.php:623
+#: lib/Config/PrivacyPolicy.php:15 assets/dist/js/automation.js:2
+msgid "MailPoet"
+msgstr "MailPoet"
+
+#: lib/Config/Hooks.php:427
+msgid "MailPoet Newsletter"
+msgstr "MailPoet nyhetsbrev"
+
+#: lib/Config/Menu.php:234 lib/Config/Menu.php:235
+msgid "Emails"
+msgstr "E-post"
+
+#: lib/Config/Menu.php:259 lib/Newsletter/Shortcodes/ShortcodesHelper.php:45
+#: assets/dist/js/admin.js:2 assets/dist/js/commons.js:9
+msgid "Newsletter"
+msgstr "Nyhetsbrev"
+
+#: lib/Config/Menu.php:260
+msgid "Newsletter Editor"
+msgstr "Nyhetsbrevsredigerare"
+
+#: lib/Config/Menu.php:274 lib/Config/Menu.php:275
+msgid "Forms"
+msgstr "Formulär"
+
+#: lib/Config/Menu.php:299 lib/Config/Menu.php:300
+msgid "Form Editor"
+msgstr "Formulärredigerare"
+
+#: lib/Config/Menu.php:340 lib/Config/Menu.php:341
+#: assets/dist/js/automation.js:9
+msgid "Subscribers"
+msgstr "Prenumeranter"
+
+#: lib/Config/Menu.php:365 lib/Config/Menu.php:366
+msgid "Import"
+msgstr "Importera"
+
+#: lib/Config/Menu.php:378 lib/Config/Menu.php:379
+msgid "Export"
+msgstr "Exportera"
+
+#: lib/Config/Menu.php:391 lib/Config/Menu.php:392 assets/dist/js/admin.js:2
+msgid "Lists"
+msgstr "Listor"
+
+#: lib/Config/Hooks.php:487 lib/Config/Menu.php:416 lib/Config/Menu.php:417
+#: assets/dist/js/admin.js:2 assets/dist/js/automation_editor.js:1
+#: assets/dist/js/commons.js:9
+msgid "Settings"
+msgstr "Inställningar"
+
+#: lib/AdminPages/Pages/Newsletters.php:98
+msgid "In any WordPress role"
+msgstr "I någon WordPress-roll"
+
+#: lib/Config/Populator.php:369
+msgid "This list is automatically created when you install MailPoet."
+msgstr "Den här listan skapas automatiskt när du installerar MailPoet."
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:26
+msgid "Newsletter: Blank 1:2:1 Column"
+msgstr "Nyhetsbrev: Tom 1:2:1 kolumn"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Let's Get Started!</strong></h1>\n"
+"<p>It's time to design your newsletter! In the right sidebar, you'll find four menu items that will help you customize your newsletter:</p>\n"
+"<ol>\n"
+"<li>Content</li>\n"
+"<li>Columns</li>\n"
+"<li>Styles</li>\n"
+"<li>Preview</li>\n"
+"</ol>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>Låt oss komma igång!</strong></h1>\n"
+"<p>Det är dags att utforma ditt nyhetsbrev! I det högra sidofältet hittar du fyra menyalternativ som hjälper dig att anpassa ditt nyhetsbrev:</p>\n"
+"<ol>\n"
+"<li>Innehåll</li>\n"
+"<li>Kolumner</li>\n"
+"<li>Stilar</li>\n"
+"<li>Förhandsvisa</li>\n"
+"</ol>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:171
+msgid ""
+"<p>In the right sidebar, you can add layout blocks to your email:</p>\n"
+"<ul>\n"
+"<li>1 column</li>\n"
+"<li>2 columns</li>\n"
+"<li>3 columns</li>\n"
+"</ul>"
+msgstr ""
+"<p>I det högra sidofältet kan du lägga till layoutblock till ditt e-postmeddelande:</p>\n"
+"<ul>\n"
+"<li>1 kolumn</li>\n"
+"<li>2 kolumner</li>\n"
+"<li>3 kolumner</li>\n"
+"</ul>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:250
+msgid ""
+"<h3 style=\"text-align: center;\"><span style=\"font-weight: 600;\">Let's end with a single column. </span></h3>\n"
+"<p style=\"line-height: 25.6px;\">In the right sidebar, you can add these layout blocks to your email:</p>\n"
+"<p style=\"line-height: 25.6px;\"></p>\n"
+"<ul style=\"line-height: 25.6px;\">\n"
+"<li>1 column</li>\n"
+"<li>2 columns</li>\n"
+"<li>3 columns</li>\n"
+"</ul>"
+msgstr ""
+"<h3 style=\"text-align: center;\"><span style=\"font-weight: 600;\">Låt oss avrunda med en enkelkolumn.</span></h3>\n"
+"<p style=\"line-height: 25.6px;\">I det högra sidofältet kan du lägga till dessa layoutblock till ditt e-postmeddelande:</p>\n"
+"<p style=\"line-height: 25.6px;\"></p>\n"
+"<ul style=\"line-height: 25.6px;\">\n"
+"<li>1 kolumn</li>\n"
+"<li>2 kolumner</li>\n"
+"<li>3 kolumner</li>\n"
+"</ul>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:26
+msgid "Newsletter: Blank 1:2 Column"
+msgstr "Nyhetsbrev: Tom 1:2 kolumn"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Let's Get Started!</strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>It's time to design your newsletter! In the right sidebar, you'll find 4 menu items that will help you customize your newsletter:</p>\n"
+"<ol>\n"
+"<li>Content</li>\n"
+"<li>Columns</li>\n"
+"<li>Styles</li>\n"
+"<li>Preview</li>\n"
+"</ol>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>Låt oss börja!</strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>Det är dags att utforma ditt nyhetsbrev! I det högra sidofältet hittar du 4 menyalternativ som hjälper dig att anpassa ditt nyhetsbrev:</p>\n"
+"<ol>\n"
+"<li>Innehåll</li>\n"
+"<li>Kolumner</li>\n"
+"<li>Stilar</li>\n"
+"<li>Förhandsvisa</li>\n"
+"</ol>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:171
+msgid ""
+"<p>In the right sidebar, you can add these layout blocks to your email:</p>\n"
+"<ul>\n"
+"<li>1 column</li>\n"
+"<li>2 columns</li>\n"
+"<li>3 columns</li>\n"
+"</ul>"
+msgstr ""
+"<p>I det högra sidofältet kan du lägga till dessa layoutblock till ditt e-postmeddelande:</p>\n"
+"<ul>\n"
+"<li>1 kolumn</li>\n"
+"<li>2 kolumner</li>\n"
+"<li>3 kolumner</li>\n"
+"</ul>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:190
+msgid "<p><span style=\"line-height: 25.6px;\">You can change a layout's background color by clicking on the settings icon on the right edge of the Designer. Simply hover over this area to see the Settings (gear) icon.</span></p>"
+msgstr "<p><span style=\"line-height: 25.6px;\">Du kan ändra en layouts bakgrundsfärg genom att klicka på inställningsikonen på den högra kanten av Designern. För muspekaren över detta område för att se ikonen för Inställningar (ett kugghjul).</span></p>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:26
+msgid "Newsletter: Blank 1:3 Column"
+msgstr "Nyhetsbrev: Tom 1:3 kolumn"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:190
+msgid ""
+"<p>You have the choice of:</p>\n"
+"<ul>\n"
+"<li>1 column</li>\n"
+"<li>2 columns</li>\n"
+"<li>3 columns</li>\n"
+"</ul>"
+msgstr ""
+"<p>Du kan välja mellan:</p>\n"
+"<ul>\n"
+"<li>1 kolumn</li>\n"
+"<li>2 kolumner</li>\n"
+"<li>3 kolumner</li>\n"
+"</ul>"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:26
+msgid "Newsletter: Blank 1 Column"
+msgstr "Nyhetsbrev: Tom 1 kolumn"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Let's Get Started! </strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>It's time to design your newsletter! In the right sidebar, you'll find 4 menu items that will help you customize your newsletter:</p>\n"
+"<ol>\n"
+"<li>Content</li>\n"
+"<li>Columns</li>\n"
+"<li>Styles</li>\n"
+"<li>Preview</li>\n"
+"</ol>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>Låt oss börja! </strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>Det är dags att utforma ditt nyhetsbrev! I det högra sidofältet hittar du 4 menyalternativ som hjälper dig att anpassa ditt nyhetsbrev:</p>\n"
+"<ol>\n"
+"<li>Innehåll</li>\n"
+"<li>Kolumner</li>\n"
+"<li>Stilar</li>\n"
+"<li>Förhandsvisa</li>\n"
+"</ol>"
+
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:26
+msgid "Post Notifications: Blank 1 Column"
+msgstr "Inläggsnotifieringar: Tom 1 kolumn"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1295
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1355
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1476
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:170
+msgid "Author:"
+msgstr "Författare:"
+
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1298
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:172
+msgid "Categories:"
+msgstr "Kategorier:"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Let's Get Started! </strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>It's time to design your newsletter! In the right sidebar, you'll find four menu items that will help you customize your newsletter:</p>\n"
+"<ol>\n"
+"<li>Content</li>\n"
+"<li>Columns</li>\n"
+"<li>Styles</li>\n"
+"<li>Preview</li>\n"
+"</ol>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>Låt oss börja! </strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>Det är dags att utforma ditt nyhetsbrev! I det högra sidofältet hittar du fyra menyalternativ som hjälper dig att anpassa ditt nyhetsbrev:</p>\n"
+"<ol>\n"
+"<li>Innehåll</li>\n"
+"<li>Kolumner</li>\n"
+"<li>Stilar</li>\n"
+"<li>Förhandsvisa</li>\n"
+"</ol>"
+
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Check Out Our New Blog Posts! </strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>MailPoet can <span style=\"line-height: 1.6em; background-color: inherit;\"><em>automatically</em> </span><span style=\"line-height: 1.6em; background-color: inherit;\">send your new blog posts to your subscribers.</span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\"></span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\">Below, you'll find three recent posts, which are displayed automatically, thanks to the <em>Automatic Latest Content</em> widget, which can be found in the right sidebar, under <em>Content</em>.</span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\"></span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\">To edit the settings and styles of your post, simply click on a post below.</span></p>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>Kolla in våra nya blogginlägg! </strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>MailPoet kan <span style=\"line-height: 1.6em; background-color: inherit;\">skicka dina nya blogginlägg till dina prenumeranter <span style=\"line-height: 1.6em; background-color: inherit;\"><em>automatiskt.</em> </span></span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\"></span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\">Nedan hittar du de tre senaste inläggen som visas automatiskt tack vare widgeten <em>Senaste innehållet automatiskt</em>, som finns i det högra sidofältet under <em>Innehåll</em>.</span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\"></span></p>\n"
+"<p><span style=\"line-height: 1.6em; background-color: inherit;\">För att redigera inställningarna och stilarna för dina inlägg, klicka på ett inlägg nedan.</span></p>"
+
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:177
+msgid "Read the post"
+msgstr "Läs inlägget"
+
+#: lib/Config/PopulatorData/Templates/SimpleText.php:26
+msgid "Simple Text"
+msgstr "Enkel text"
+
+#: lib/Config/PopulatorData/Templates/SimpleText.php:88
+msgid ""
+"<p style=\"text-align: left;\">Hi [subscriber:firstname | default:subscriber],</p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">In MailPoet, you can write emails in plain text, just like in a regular email. This can make your email newsletters more personal and attention-grabbing.</p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">Is this too simple? You can still style your text with basic formatting, like <strong>bold</strong> or <em>italics.</em></p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">Finally, you can also add a call-to-action button between 2 blocks of text, like this:</p>"
+msgstr ""
+"<p style=\"text-align: left;\">Hej [subscriber:firstname | default:prenumerant],</p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">I MailPoet kan du skriva e-postmeddelanden i klartext, precis som i med vanlig e-post. Detta kan göra dina nyhetsbrev mer personliga och framträdande</p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">Är detta för simpelt? Du kan fortfarande sätta lite stil på texten med grundläggande formatering, såsom <strong>fetstil</strong> eller <em>kursivt.</em></p>\n"
+"<p style=\"text-align: left;\"></p>\n"
+"<p style=\"text-align: left;\">Slutligen kan du också lägga till en Call-to-Action-knapp mellan två textblock, så här:</p>"
+
+#: lib/Config/PopulatorData/Templates/SimpleText.php:123
+msgid "It's time to take action!"
+msgstr "Det är dags att agera!"
+
+#: lib/Config/PopulatorData/Templates/SimpleText.php:144
+msgid ""
+"<p>Thanks for reading. See you soon!</p>\n"
+"<p>&nbsp;</p>\n"
+"<p><strong><em>The MailPoet Team</em></strong></p>"
+msgstr ""
+"<p>Tack för att du läste. Ses snart!</p>\n"
+"<p>&nbsp;</p>\n"
+"<p><strong><em>Teamet från MailPoet</em></strong></p>"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:26
+msgid "Welcome Email: Blank 1:2 Column"
+msgstr "Välkomstmeddelande: Tom 1:2 kolumn"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:129
+msgid ""
+"<h1 style=\"text-align: center;\"><strong>Hi, new subscriber!</strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>[subscriber:firstname | default:Subscriber],</p>\n"
+"<p>&nbsp;</p>\n"
+"<p>You recently joined our list and we'd like to give you a warm welcome!</p>"
+msgstr ""
+"<h1 style=\"text-align: center;\"><strong>Hej nya prenumerant!</strong></h1>\n"
+"<p>&nbsp;</p>\n"
+"<p>[subscriber:firstname | default:Prenumerant],</p>\n"
+"<p>&nbsp;</p>\n"
+"<p>Du gick nyligen med i vår lista och vi vill gärna ge dig ett varmt välkomnande!</p>"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:176
+msgid "<h3>Our Most Popular Posts</h3>"
+msgstr "<h3>Våra mest populära inlägg</h3>"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:199
+msgid "<p>Add a single button to your newsletter in order to have one clear call-to-action, which will increase your click rates.</p>"
+msgstr "<p>Lägg till en enda knapp i ditt nyhetsbrev för att ge en tydlig uppmaning att klicka, vilket kommer att öka din klickfrekvens.</p>"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:203
+msgid "Read up!"
+msgstr "Läs!"
+
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:26
+msgid "Welcome Email: Blank 1 Column"
+msgstr "Välkomstmeddelande: Tom 1 kolumn"
+
+#: lib/Config/Shortcodes.php:163
+msgid "Oops! There are no newsletters to display."
+msgstr "Hoppsan! Det finns inga nyhetsbrev att visa."
+
+#: lib/Config/Shortcodes.php:227
+msgid "Preview in a new tab"
+msgstr "Förhandgranska i ny flik"
+
+#: lib/Cron/CronHelper.php:198 lib/Cron/CronHelper.php:219
+msgid "Site URL is unreachable."
+msgstr "Webbplatsadressen är inte tillgänglig."
+
+#: lib/Cron/DaemonHttpRunner.php:67
+msgid "Invalid or missing request data."
+msgstr "Ogiltiga eller saknade data för begäran."
+
+#: lib/Cron/DaemonHttpRunner.php:70
+msgid "Daemon does not exist."
+msgstr "Daemon existerar inte."
+
+#: lib/Form/Block/Date.php:72
+msgid "Please select a day"
+msgstr "Välj en dag"
+
+#: lib/Form/Block/Date.php:74 lib/Form/Block/Date.php:216
+#: assets/dist/js/admin_vendor.js:1 assets/dist/js/automation.js:2
+msgid "Day"
+msgstr "Dag"
+
+#: lib/Form/Block/Date.php:81
+msgid "Please select a month"
+msgstr "Välj en månad"
+
+#: lib/Form/Block/Date.php:83 lib/Form/Block/Date.php:150
+#: assets/dist/js/admin_vendor.js:1 assets/dist/js/automation.js:2
+msgid "Month"
+msgstr "Månad"
+
+#: lib/Form/Block/Date.php:90
+msgid "Please select a year"
+msgstr "Välj ett år"
+
+#: lib/Form/Block/Date.php:92 lib/Form/Block/Date.php:108
+#: lib/Form/Block/Date.php:185
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:87
+#: assets/dist/js/admin_vendor.js:1 assets/dist/js/automation.js:2
+msgid "Year"
+msgstr "År"
+
+#: lib/Form/Block/Date.php:105
+msgid "Year, month, day"
+msgstr "År, månad, dag"
+
+#: lib/Form/Block/Date.php:106
+msgid "Year, month"
+msgstr "År, månad"
+
+#: lib/Form/Block/Date.php:107
+msgid "Month (January, February,...)"
+msgstr "Månad (januari, februari ...)"
+
+#: lib/Form/Block/Date.php:122 assets/dist/js/admin.js:2
+#: assets/dist/js/admin_vendor.js:1 assets/dist/js/automation.js:2
+msgid "January"
+msgstr "januari"
+
+#: lib/Form/Block/Date.php:122 assets/dist/js/admin.js:2
+#: assets/dist/js/admin_vendor.js:1 assets/dist/js/automation.js:2
+msgid "February"
+msgstr "februari"
+
+#: lib/Form/Block/Date.php:122 assets/dist/js/admin.js:2
+#: assets/dist/js/admin_vendor.js:1 assets/dist/js/automation.js:2
+msgid "March"
+msgstr "mars"
+
+#: lib/Form/Block/Date.php:122 assets/dist/js/admin.js:2
+#: assets/dist/js/admin_vendor.js:1 assets/dist/js/automation.js:2
+msgid "April"
+msgstr "april"
+
+#: lib/Form/Block/Date.php:123 assets/dist/js/admin.js:2
+#: assets/dist/js/admin_vendor.js:1 assets/dist/js/automation.js:2
+msgid "May"
+msgstr "maj"
+
+#: lib/Form/Block/Date.php:123 assets/dist/js/admin.js:2
+#: assets/dist/js/admin_vendor.js:1 assets/dist/js/automation.js:2
+msgid "June"
+msgstr "juni"
+
+#: lib/Form/Block/Date.php:123 assets/dist/js/admin.js:2
+#: assets/dist/js/admin_vendor.js:1 assets/dist/js/automation.js:2
+msgid "July"
+msgstr "juli"
+
+#: lib/Form/Block/Date.php:123 assets/dist/js/admin.js:2
+#: assets/dist/js/admin_vendor.js:1 assets/dist/js/automation.js:2
+msgid "August"
+msgstr "augusti"
+
+#: lib/Form/Block/Date.php:123 assets/dist/js/admin.js:2
+#: assets/dist/js/admin_vendor.js:1 assets/dist/js/automation.js:2
+msgid "September"
+msgstr "september"
+
+#: lib/Form/Block/Date.php:124 assets/dist/js/admin.js:2
+#: assets/dist/js/admin_vendor.js:1 assets/dist/js/automation.js:2
+msgid "October"
+msgstr "oktober"
+
+#: lib/Form/Block/Date.php:124 assets/dist/js/admin.js:2
+#: assets/dist/js/admin_vendor.js:1 assets/dist/js/automation.js:2
+msgid "November"
+msgstr "november"
+
+#: lib/Form/Block/Date.php:124 assets/dist/js/admin.js:2
+#: assets/dist/js/admin_vendor.js:1 assets/dist/js/automation.js:2
+msgid "December"
+msgstr "december"
+
+#: lib/Form/Widget.php:38
+msgid "Add a newsletter subscription form"
+msgstr "Lägg till ett prenumerationsformulär för nyhetsbrev"
+
+#: lib/Form/Widget.php:126
+msgid "Subscribe to Our Newsletter"
+msgstr "Prenumerera på vårt nyhetsbrev"
+
+#: lib/Form/Widget.php:141
+msgid "Title:"
+msgstr "Rubrik:"
+
+#: lib/Form/Widget.php:164 lib/PostEditorBlocks/SubscriptionFormBlock.php:63
+msgid "Create a new form"
+msgstr "Skapa ett nytt formulär"
+
+#: lib/Mailer/MailerFactory.php:111
+msgid "Mailing method does not exist."
+msgstr "Utskicksmetoden existerar inte."
+
+#: lib/Mailer/MailerFactory.php:118
+msgid "Mailer is not configured."
+msgstr "Utskickaren har inte konfigurerats."
+
+#: lib/Mailer/MailerFactory.php:125
+msgid "Sender name and email are not configured."
+msgstr "Avsändarens namn och e-post har inte konfigurerats."
+
+#: lib/Mailer/MailerLog.php:113
+msgid "Sending frequency limit has been reached."
+msgstr "Gränsen för utskicksfrekvens har nåtts."
+
+#: lib/Mailer/Methods/AmazonSES.php:86
+msgid "Unsupported Amazon SES region"
+msgstr "Angiven Amazon SES-region stöds inte"
+
+#: lib/API/JSON/v1/DynamicSegments.php:126 lib/API/JSON/v1/ImportExport.php:121
+#: lib/API/JSON/v1/Segments.php:130 lib/Models/CustomField.php:29
+#: lib/Models/NewsletterOptionField.php:25 lib/Models/Segment.php:32
+msgid "Please specify a name."
+msgstr "Ange ett namn."
+
+#: lib/Models/CustomField.php:32 lib/Models/Newsletter.php:70
+msgid "Please specify a type."
+msgstr "Ange en typ."
+
+#: lib/Form/Listing/FormListingRepository.php:34
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:109
+#: lib/Newsletter/Sending/ScheduledTaskSubscribersListingRepository.php:51
+#: lib/Segments/SegmentListingRepository.php:97
+#: lib/Subscribers/SubscriberListingRepository.php:209
+#: assets/dist/js/automation.js:2 assets/dist/js/automation.js:9
+msgid "All"
+msgstr "Alla"
+
+#: lib/Form/Listing/FormListingRepository.php:39
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:177
+#: lib/Segments/SegmentListingRepository.php:102
+#: lib/Subscribers/SubscriberListingRepository.php:239
+msgid "Trash"
+msgstr "Papperskorg"
+
+#. translators: %1$s is the name of the database column.
+#: lib/Models/Model.php:247
+msgid "Another record already exists. Please specify a different \"%1$s\"."
+msgstr "En annan post finns redan. Ange en annan ”%1$s”."
+
+#: lib/Models/Subscriber.php:166
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:65
+#: lib/Subscribers/SubscriberListingRepository.php:278
+msgid "All Lists"
+msgstr "Alla listor"
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:120
+#: assets/dist/js/automation.js:9 assets/dist/js/automation_editor.js:1
+msgid "Draft"
+msgstr "Utkast"
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:125
+msgid "Scheduled"
+msgstr "Schemalagt"
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:130
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:145
+msgid "Sending"
+msgstr "Skickar"
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:135
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:150
+#: lib/Newsletter/Sending/ScheduledTaskSubscribersListingRepository.php:56
+#: assets/dist/js/commons.js:9
+msgid "Sent"
+msgstr "Skickat"
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:163
+#: assets/dist/js/automation.js:9 assets/dist/js/automation_editor.js:1
+msgid "Active"
+msgstr "Aktiv"
+
+#: lib/Models/NewsletterOptionField.php:28
+msgid "Please specify a newsletter type."
+msgstr "Ange typ av nyhetsbrev."
+
+#: lib/Models/Segment.php:144 lib/Segments/SegmentsRepository.php:61
+msgid "WordPress Users"
+msgstr "WordPress-användare"
+
+#: lib/Models/Segment.php:146 lib/Segments/SegmentsRepository.php:63
+msgid "This list contains all of your WordPress users."
+msgstr "Denna lista innehåller alla dina WordPress-användare."
+
+#: lib/API/JSON/v1/Subscribers.php:313 lib/Models/Subscriber.php:54
+msgid "Please enter your email address"
+msgstr "Ange din e-postadress"
+
+#. translators: %s is the number of subscribers without a segment.
+#. translators: %s is the number of subscribers without a list.
+#: lib/Models/Subscriber.php:175
+#: lib/Subscribers/SubscriberListingRepository.php:264
+msgid "Subscribers without a list (%s)"
+msgstr "Prenumeranter som inte finns på någon lista (%s)"
+
+#: lib/Automation/Integrations/MailPoet/Subjects/SubscriberSubject.php:117
+#: lib/Subscribers/SubscriberListingRepository.php:214
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:183
+msgid "Subscribed"
+msgstr "Prenumererar"
+
+#: lib/Automation/Integrations/MailPoet/Subjects/SubscriberSubject.php:121
+#: lib/Subscribers/SubscriberListingRepository.php:219
+msgid "Unconfirmed"
+msgstr "Obekräftad"
+
+#: lib/Automation/Integrations/MailPoet/Subjects/SubscriberSubject.php:125
+#: lib/Subscribers/SubscriberListingRepository.php:224
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:191
+msgid "Unsubscribed"
+msgstr "Avregistrerad"
+
+#: lib/Newsletter/Editor/PostContentManager.php:147
+msgid "Click here to view media."
+msgstr "Klicka här för att visa media."
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:23
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:138
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:139 assets/dist/js/admin.js:2
+msgid "Subscriber"
+msgstr "Prenumerant"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:25
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:66
+msgid "First Name"
+msgstr "Förnamn"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:29
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:70
+msgid "Last Name"
+msgstr "Efternamn"
+
+#: lib/Form/Templates/Templates/InitialForm.php:28
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:33
+msgid "Email Address"
+msgstr "E-postadress"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:37
+msgid "WordPress User Display Name"
+msgstr "WordPress-användarens visningsnamn"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:41
+msgid "Total Number of Subscribers"
+msgstr "Totalt antal prenumeranter"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:53
+msgid "Total Number of Posts or Pages"
+msgstr "Totalt antal inlägg eller sidor"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:57
+msgid "Most Recent Post Title"
+msgstr "Senaste inläggets rubrik"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:61
+msgid "Issue Number"
+msgstr "Utgåvans nummer"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:65
+#: assets/dist/js/admin_vendor.js:1 assets/dist/js/automation.js:2
+msgid "Date"
+msgstr "Datum"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:67
+msgid "Current day of the month number"
+msgstr "Numret för aktuell dag i månaden"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:71
+msgid "Current day of the month in ordinal form, i.e. 2nd, 3rd, 4th, etc."
+msgstr "Aktuell dag i månaden som ordningstal, det vill säga 2:a, 3:e, 4:e o.s.v."
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:75
+msgid "Full name of current day"
+msgstr "Fullständigt namn på aktuell dag"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:79
+msgid "Current month number"
+msgstr "Aktuellt månadsnummer"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:83
+msgid "Full name of current month"
+msgstr "Fullständigt namn på aktuell månad"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:91
+msgid "Links"
+msgstr "Länkar"
+
+#: lib/Cron/Workers/StatsNotifications/Worker.php:195
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:93
+msgid "Unsubscribe link"
+msgstr "Länk för att avsluta prenumeration"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:101
+msgid "Edit subscription page link"
+msgstr "Länk för att redigera prenumeration"
+
+#: lib/Config/PopulatorData/Templates/ConfirmInterestBeforeDeactivation.php:166
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:105
+msgid "Manage subscription"
+msgstr "Hantera prenumeration"
+
+#: lib/Cron/Workers/StatsNotifications/Worker.php:198
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:109
+msgid "View in browser link"
+msgstr "Länk för att visa i webbläsaren"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:113
+msgid "View in your browser"
+msgstr "Visa i din webbläsare"
+
+#: lib/Router/Router.php:51
+msgid "Invalid router endpoint"
+msgstr "Ogiltig router-ändpunkt"
+
+#: lib/Router/Router.php:57
+msgid "Invalid router endpoint action"
+msgstr "Ogiltig åtgärd för router-ändpunkt"
+
+#: lib/Settings/Pages.php:18 lib/Settings/Pages.php:19
+#: lib/Settings/Pages.php:43 lib/Subscription/Pages.php:287
+msgid "MailPoet Page"
+msgstr "MailPoet-sida"
+
+#: lib/Subscribers/ImportExport/ImportExportRepository.php:197
+msgid "Not In Segment"
+msgstr "Inte i segmentet"
+
+#: lib/Subscribers/ImportExport/Export/Export.php:93
+msgid "Export requires a ZIP extension to be installed on the host."
+msgstr "Export kräver att ett ZIP-tillägg installeras på webbhotellet."
+
+#: lib/Subscribers/ImportExport/Export/Export.php:71
+msgid "List"
+msgstr "Lista"
+
+#: lib/Subscribers/ImportExport/Import/Import.php:199
+msgid "Unable to save imported subscribers."
+msgstr "Det gick inte att spara importerade prenumeranter."
+
+#: lib/Subscribers/ImportExport/Import/MailChimp.php:142
+msgid "Invalid API Key."
+msgstr "Ogiltig API-nyckel."
+
+#: lib/Subscribers/ImportExport/Import/MailChimp.php:145
+msgid "The information received from MailChimp is too large for processing. Please limit the number of lists!"
+msgstr "Den information som mottagits från MailChimp är alltför stor för att bearbetas. Vänligen begränsa antalet listor!"
+
+#: lib/Subscribers/ImportExport/Import/MailChimp.php:148
+msgid "Did not find any active subscribers."
+msgstr "Kunde inte hitta någon aktiv prenumerant."
+
+#: lib/Subscribers/ImportExport/Import/MailChimp.php:151
+msgid "Did not find any valid lists."
+msgstr "Kunde inte hitta någon giltig lista."
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:143
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:144
+msgid "Actions"
+msgstr "Åtgärder"
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:148
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:149
+msgid "System fields"
+msgstr "Systemfält"
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:155
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:156
+msgid "User fields"
+msgstr "Användarfält"
+
+#: lib/Subscribers/ImportExport/PersonalDataExporters/SubscriberExporter.php:78
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:179
+#: assets/dist/js/admin.js:2 assets/dist/js/automation.js:9
+#: assets/dist/js/commons.js:9
+msgid "Status"
+msgstr "Status"
+
+#: lib/Subscription/Comment.php:50 lib/Subscription/Registration.php:42
+msgid "Yes, please add me to your mailing list."
+msgstr "Ja tack, lägg till mig i er e-postlista."
+
+#: lib/Subscription/Pages.php:294
+msgid "Hmmm... we don't have a record of you."
+msgstr "Hmmm ... vi har inga uppgifter om dig."
+
+#: lib/Subscription/Pages.php:322
+msgid "Your email address doesn't appear in our lists anymore. Sign up again or contact us if this appears to be a mistake."
+msgstr "Din e-postadress finns inte i våra listor längre. Registrera dig igen eller kontakta oss om detta är ett misstag."
+
+#. translators: %s is the website title or website name.
+#: lib/Subscription/Pages.php:387
+msgid "You have subscribed to %s"
+msgstr "Du har prenumererat på %s"
+
+#: lib/Subscription/Pages.php:383
+msgid "You are now subscribed!"
+msgstr "Du prenumererar nu!"
+
+#: lib/Subscription/Pages.php:403
+msgid "You are now unsubscribed."
+msgstr "Du har nu avslutat prenumerationen."
+
+#: lib/Subscription/Pages.php:421
+msgid "Yup, we've added you to our email list. You'll hear from us shortly."
+msgstr "Japp, vi har lagt till dig i vår e-postlista. Vi hör av oss snart."
+
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:257
+msgid "Your lists"
+msgstr "Dina listor"
+
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:84
+#: assets/dist/js/admin.js:2 assets/dist/js/commons.js:9
+msgid "Save"
+msgstr "Spara"
+
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:106
+msgid "[link]Edit your profile[/link] to update your email."
+msgstr "[link]Redigera din profil[/link] för att uppdatera din e-postadress."
+
+#: lib/Subscription/ManageSubscriptionFormRenderer.php:112
+msgid "[link]Log in to your account[/link] to update your email."
+msgstr "[link]Logga in på ditt konto[/link] för att uppdatera din e-postadress."
+
+#: lib/Subscription/Pages.php:453
+msgid "Accidentally unsubscribed?"
+msgstr "Avregistrerad av misstag?"
+
+#: lib/Config/PopulatorData/Templates/AppWelcome.php:322
+#: lib/Config/PopulatorData/Templates/Avocado.php:657
+#: lib/Config/PopulatorData/Templates/Avocado.php:866
+#: lib/Config/PopulatorData/Templates/Birds.php:1352
+#: lib/Config/PopulatorData/Templates/Birds.php:1586
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:815
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:1049
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1690
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1936
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:899
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:1133
+#: lib/Config/PopulatorData/Templates/Charity.php:777
+#: lib/Config/PopulatorData/Templates/Charity.php:990
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1044
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1326
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1428
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1721
+#: lib/Config/PopulatorData/Templates/Coffee.php:937
+#: lib/Config/PopulatorData/Templates/College.php:715
+#: lib/Config/PopulatorData/Templates/College.php:979
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:608
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:961
+#: lib/Config/PopulatorData/Templates/ConfirmInterestOrUnsubscribe.php:165
+#: lib/Config/PopulatorData/Templates/DogFood.php:761
+#: lib/Config/PopulatorData/Templates/DogFood.php:993
+#: lib/Config/PopulatorData/Templates/Drone.php:815
+#: lib/Config/PopulatorData/Templates/Drone.php:1047
+#: lib/Config/PopulatorData/Templates/Engineering.php:826
+#: lib/Config/PopulatorData/Templates/Engineering.php:1114
+#: lib/Config/PopulatorData/Templates/Faith.php:356
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1106
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1399
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:659
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:946
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1048
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1281
+#: lib/Config/PopulatorData/Templates/FashionShop.php:642
+#: lib/Config/PopulatorData/Templates/FashionShop.php:874
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1067
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1280
+#: lib/Config/PopulatorData/Templates/Fitness.php:721
+#: lib/Config/PopulatorData/Templates/Fitness.php:995
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1135
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1368
+#: lib/Config/PopulatorData/Templates/FoodBox.php:690
+#: lib/Config/PopulatorData/Templates/GiftWelcome.php:301
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1341
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1587
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2071
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2305
+#: lib/Config/PopulatorData/Templates/Hotels.php:1035
+#: lib/Config/PopulatorData/Templates/Hotels.php:1268
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1069
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1309
+#: lib/Config/PopulatorData/Templates/JazzClub.php:856
+#: lib/Config/PopulatorData/Templates/JazzClub.php:1096
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1188
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1472
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:894
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:1126
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1113
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1346
+#: lib/Config/PopulatorData/Templates/Minimal.php:786
+#: lib/Config/PopulatorData/Templates/Minimal.php:1071
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1025
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1293
+#: lib/Config/PopulatorData/Templates/Mosque.php:1415
+#: lib/Config/PopulatorData/Templates/Mosque.php:1649
+#: lib/Config/PopulatorData/Templates/Motor.php:793
+#: lib/Config/PopulatorData/Templates/Motor.php:1055
+#: lib/Config/PopulatorData/Templates/Music.php:1094
+#: lib/Config/PopulatorData/Templates/Music.php:1339
+#: lib/Config/PopulatorData/Templates/NewsDay.php:565
+#: lib/Config/PopulatorData/Templates/NewsDay.php:952
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:264
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:287
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:324
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:725
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:1067
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:607
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:862
+#: lib/Config/PopulatorData/Templates/Painter.php:1038
+#: lib/Config/PopulatorData/Templates/Painter.php:1251
+#: lib/Config/PopulatorData/Templates/Phone.php:420
+#: lib/Config/PopulatorData/Templates/Phone.php:633
+#: lib/Config/PopulatorData/Templates/Photography.php:1703
+#: lib/Config/PopulatorData/Templates/Photography.php:1949
+#: lib/Config/PopulatorData/Templates/Poet.php:870
+#: lib/Config/PopulatorData/Templates/Poet.php:1103
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:290
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:962
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:1196
+#: lib/Config/PopulatorData/Templates/RealEstate.php:726
+#: lib/Config/PopulatorData/Templates/RealEstate.php:970
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:980
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:1194
+#: lib/Config/PopulatorData/Templates/Retro.php:835
+#: lib/Config/PopulatorData/Templates/Retro.php:1188
+#: lib/Config/PopulatorData/Templates/RetroComputingMagazine.php:595
+#: lib/Config/PopulatorData/Templates/RockBand.php:846
+#: lib/Config/PopulatorData/Templates/RockBand.php:1080
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:454
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:692
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:775
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:1042
+#: lib/Config/PopulatorData/Templates/Shoes.php:512
+#: lib/Config/PopulatorData/Templates/SimpleText.php:148
+#: lib/Config/PopulatorData/Templates/Software.php:910
+#: lib/Config/PopulatorData/Templates/Software.php:1155
+#: lib/Config/PopulatorData/Templates/Sunglasses.php:663
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1355
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1643
+#: lib/Config/PopulatorData/Templates/TakeAHike.php:650
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1006
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1258
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:294
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:363
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:629
+#: lib/Config/PopulatorData/Templates/WineCity.php:518
+#: lib/Config/PopulatorData/Templates/WineCity.php:791
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1035
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1269
+#: lib/Config/PopulatorData/Templates/WorldCup.php:727
+#: lib/Config/PopulatorData/Templates/YogaStudio.php:701
+#: lib/Subscription/Pages.php:397 lib/Subscription/Pages.php:495
+msgid "Manage your subscription"
+msgstr "Hantera din prenumeration"
+
+#: lib/Twig/Functions.php:205
+msgid "every minute"
+msgstr "varje minut"
+
+#. translators: %1$d is the amount of minutes.
+#: lib/Twig/Functions.php:207
+msgid "every %1$d minutes"
+msgstr "var %1$d minut"
+
+#. translators: %1$d is the amount of minutes.
+#: lib/Twig/Functions.php:208
+msgid "every hour"
+msgstr "varje timme"
+
+#. translators: %1$d is the amount of hours.
+#: lib/Twig/Functions.php:210
+msgid "every %1$d hours"
+msgstr "var %1$d timme"
+
+#: lib/WP/Notice.php:45
+msgid "MailPoet Error:"
+msgstr "MailPoet-fel:"
+
+#: lib/Config/Menu.php:247
+msgctxt "newsletters per page (screen options)"
+msgid "Number of newsletters per page"
+msgstr "Antal nyhetsbrev per sida"
+
+#: lib/Config/Menu.php:287
+msgctxt "forms per page (screen options)"
+msgid "Number of forms per page"
+msgstr "Antal formulär per sida"
+
+#: lib/Config/Menu.php:353
+msgctxt "subscribers per page (screen options)"
+msgid "Number of subscribers per page"
+msgstr "Antal prenumeranter per sida"
+
+#: lib/Config/Menu.php:404
+msgctxt "segments per page (screen options)"
+msgid "Number of segments per page"
+msgstr "Antal segment per sida"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.mailpoet.com"
+msgstr "https://www.mailpoet.com"
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:190
+msgid "You can change a layout's background color by clicking on the settings icon on the right edge of the Designer. Simply hover over this area to see the Settings (gear) icon."
+msgstr "Du kan ändra bakgrunden på en layout genom att klicka på inställningsikonen till höger i designern. Håll bara muspekaren över detta område för att se inställningsikonen (kugghjulet)."
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:171
+msgid "In the right sidebar, you can add layout blocks to your newsletter."
+msgstr "I den högra sidopanelen kan du lägga till layoutblock i ditt nyhetsbrev."
+
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:209
+msgid "You can add as many layout blocks as you want!"
+msgstr "Du kan lägga till hur många layoutblock som helst!"
+
+#: lib/Form/Block/BlockRendererHelper.php:71
+msgid "Please specify a valid phone number."
+msgstr "Ange ett giltigt telefonnummer."
+
+#: lib/Form/Block/BlockRendererHelper.php:81
+msgid "Please select at least one option."
+msgstr "Välj minst ett alternativ."
+
+#: lib/API/JSON/v1/Segments.php:102 lib/API/JSON/v1/Segments.php:166
+#: lib/API/JSON/v1/Segments.php:176 lib/API/JSON/v1/Segments.php:240
+#: lib/API/JSON/v1/Segments.php:262 lib/API/MP/v1/Subscribers.php:395
+msgid "This list does not exist."
+msgid_plural "These lists do not exist."
+msgstr[0] "Denna lista finns inte."
+msgstr[1] "Dessa listor finns inte."
+
+#: lib/Config/PopulatorData/Templates/ConfirmInterestBeforeDeactivation.php:88
+#: lib/Config/PopulatorData/Templates/ConfirmInterestOrUnsubscribe.php:88
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:117
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:117
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:117
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:117
+#: lib/Config/PopulatorData/Templates/SimpleText.php:76
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:117
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:117
+msgid "Fake logo"
+msgstr "Falsk logga"
+
+#: lib/Newsletter/Listing/NewsletterListingRepository.php:168
+msgid "Not active"
+msgstr "Inte aktiv"
+
+#: lib/API/JSON/v1/Subscribers.php:315 lib/Models/Subscriber.php:55
+msgid "Your email address is invalid!"
+msgstr "Din e-postadress är ogiltig!"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:47
+msgid "Newsletter Subject"
+msgstr "Nyhetsbrevets ämne"
+
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:51 assets/dist/js/admin.js:2
+msgid "Post Notifications"
+msgstr "Inläggsaviseringar"
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:120
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:121
+msgid "Ignore field..."
+msgstr "Ignorera fält …"
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:125
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:126
+msgid "Create new field..."
+msgstr "Skapa nytt fält …"
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:132
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:133
+msgid "Select all..."
+msgstr "Markera alla …"
+
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:137
+#: lib/Subscribers/ImportExport/ImportExportFactory.php:138
+msgid "Deselect all..."
+msgstr "Avmarkera alla …"
+
+#: lib/Config/PopulatorData/Templates/AppWelcome.php:322
+#: lib/Config/PopulatorData/Templates/Avocado.php:657
+#: lib/Config/PopulatorData/Templates/Avocado.php:866
+#: lib/Config/PopulatorData/Templates/Birds.php:1352
+#: lib/Config/PopulatorData/Templates/Birds.php:1586
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:815
+#: lib/Config/PopulatorData/Templates/BookStoreWithCoupon.php:1049
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1690
+#: lib/Config/PopulatorData/Templates/BrandingAgencyNews.php:1936
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:899
+#: lib/Config/PopulatorData/Templates/BuddhistTemple.php:1133
+#: lib/Config/PopulatorData/Templates/Charity.php:777
+#: lib/Config/PopulatorData/Templates/Charity.php:990
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1044
+#: lib/Config/PopulatorData/Templates/CityLocalNews.php:1326
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1427
+#: lib/Config/PopulatorData/Templates/ClearNews.php:1721
+#: lib/Config/PopulatorData/Templates/Coffee.php:937
+#: lib/Config/PopulatorData/Templates/College.php:715
+#: lib/Config/PopulatorData/Templates/College.php:979
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:608
+#: lib/Config/PopulatorData/Templates/ComputerRepair.php:961
+#: lib/Config/PopulatorData/Templates/ConfirmInterestBeforeDeactivation.php:166
+#: lib/Config/PopulatorData/Templates/ConfirmInterestOrUnsubscribe.php:165
+#: lib/Config/PopulatorData/Templates/DogFood.php:761
+#: lib/Config/PopulatorData/Templates/DogFood.php:993
+#: lib/Config/PopulatorData/Templates/Drone.php:815
+#: lib/Config/PopulatorData/Templates/Drone.php:1047
+#: lib/Config/PopulatorData/Templates/Engineering.php:825
+#: lib/Config/PopulatorData/Templates/Engineering.php:1114
+#: lib/Config/PopulatorData/Templates/Faith.php:356
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1106
+#: lib/Config/PopulatorData/Templates/FarmersMarket.php:1399
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:659
+#: lib/Config/PopulatorData/Templates/FashionBlog.php:946
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1048
+#: lib/Config/PopulatorData/Templates/FashionBlogA.php:1281
+#: lib/Config/PopulatorData/Templates/FashionShop.php:642
+#: lib/Config/PopulatorData/Templates/FashionShop.php:874
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1067
+#: lib/Config/PopulatorData/Templates/FashionStore.php:1280
+#: lib/Config/PopulatorData/Templates/FestivalEvent.php:467
+#: lib/Config/PopulatorData/Templates/Fitness.php:721
+#: lib/Config/PopulatorData/Templates/Fitness.php:995
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1135
+#: lib/Config/PopulatorData/Templates/FlowersWithCoupon.php:1368
+#: lib/Config/PopulatorData/Templates/FoodBox.php:690
+#: lib/Config/PopulatorData/Templates/GiftWelcome.php:301
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1341
+#: lib/Config/PopulatorData/Templates/Guitarist.php:1587
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2071
+#: lib/Config/PopulatorData/Templates/HealthyFoodBlog.php:2305
+#: lib/Config/PopulatorData/Templates/Hotels.php:1035
+#: lib/Config/PopulatorData/Templates/Hotels.php:1268
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1069
+#: lib/Config/PopulatorData/Templates/IndustryConference.php:1309
+#: lib/Config/PopulatorData/Templates/JazzClub.php:856
+#: lib/Config/PopulatorData/Templates/JazzClub.php:1096
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1188
+#: lib/Config/PopulatorData/Templates/KidsClothing.php:1472
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:894
+#: lib/Config/PopulatorData/Templates/LifestyleBlogA.php:1126
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1113
+#: lib/Config/PopulatorData/Templates/LifestyleBlogB.php:1346
+#: lib/Config/PopulatorData/Templates/Minimal.php:785
+#: lib/Config/PopulatorData/Templates/Minimal.php:1071
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1025
+#: lib/Config/PopulatorData/Templates/ModularStyleStories.php:1293
+#: lib/Config/PopulatorData/Templates/Mosque.php:1415
+#: lib/Config/PopulatorData/Templates/Mosque.php:1649
+#: lib/Config/PopulatorData/Templates/Motor.php:793
+#: lib/Config/PopulatorData/Templates/Motor.php:1055
+#: lib/Config/PopulatorData/Templates/Music.php:1093
+#: lib/Config/PopulatorData/Templates/Music.php:1339
+#: lib/Config/PopulatorData/Templates/NewsDay.php:565
+#: lib/Config/PopulatorData/Templates/NewsDay.php:952
+#: lib/Config/PopulatorData/Templates/NewsletterBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/NewsletterBlank12Column.php:264
+#: lib/Config/PopulatorData/Templates/NewsletterBlank13Column.php:287
+#: lib/Config/PopulatorData/Templates/NewsletterBlank121Column.php:324
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:725
+#: lib/Config/PopulatorData/Templates/NewspaperTraditional.php:1067
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:607
+#: lib/Config/PopulatorData/Templates/NotSoMedium.php:862
+#: lib/Config/PopulatorData/Templates/Painter.php:1038
+#: lib/Config/PopulatorData/Templates/Painter.php:1251
+#: lib/Config/PopulatorData/Templates/Phone.php:419
+#: lib/Config/PopulatorData/Templates/Phone.php:633
+#: lib/Config/PopulatorData/Templates/Photography.php:1703
+#: lib/Config/PopulatorData/Templates/Photography.php:1949
+#: lib/Config/PopulatorData/Templates/PieceOfCake.php:370
+#: lib/Config/PopulatorData/Templates/Poet.php:870
+#: lib/Config/PopulatorData/Templates/Poet.php:1103
+#: lib/Config/PopulatorData/Templates/PostNotificationsBlank1Column.php:290
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:962
+#: lib/Config/PopulatorData/Templates/PrimarySchool.php:1196
+#: lib/Config/PopulatorData/Templates/RealEstate.php:726
+#: lib/Config/PopulatorData/Templates/RealEstate.php:970
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:980
+#: lib/Config/PopulatorData/Templates/RenewableEnergy.php:1194
+#: lib/Config/PopulatorData/Templates/Retro.php:835
+#: lib/Config/PopulatorData/Templates/Retro.php:1188
+#: lib/Config/PopulatorData/Templates/RetroComputingMagazine.php:595
+#: lib/Config/PopulatorData/Templates/RockBand.php:846
+#: lib/Config/PopulatorData/Templates/RockBand.php:1080
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:454
+#: lib/Config/PopulatorData/Templates/RssSimpleNews.php:692
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:775
+#: lib/Config/PopulatorData/Templates/ScienceWeekly.php:1042
+#: lib/Config/PopulatorData/Templates/Shoes.php:512
+#: lib/Config/PopulatorData/Templates/SimpleText.php:148
+#: lib/Config/PopulatorData/Templates/Software.php:910
+#: lib/Config/PopulatorData/Templates/Software.php:1155
+#: lib/Config/PopulatorData/Templates/Sunglasses.php:663
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1355
+#: lib/Config/PopulatorData/Templates/Synagogue.php:1643
+#: lib/Config/PopulatorData/Templates/TakeAHike.php:650
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1006
+#: lib/Config/PopulatorData/Templates/Vlogger.php:1258
+#: lib/Config/PopulatorData/Templates/WelcomeBlank1Column.php:203
+#: lib/Config/PopulatorData/Templates/WelcomeBlank12Column.php:294
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:363
+#: lib/Config/PopulatorData/Templates/WideStoryLayout.php:629
+#: lib/Config/PopulatorData/Templates/WineCity.php:518
+#: lib/Config/PopulatorData/Templates/WineCity.php:791
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1035
+#: lib/Config/PopulatorData/Templates/WordPressTheme.php:1269
+#: lib/Config/PopulatorData/Templates/WorldCup.php:727
+#: lib/Config/PopulatorData/Templates/YogaStudio.php:701
+#: lib/Newsletter/Shortcodes/ShortcodesHelper.php:97
+#: assets/dist/js/automation_editor.js:1
+msgid "Unsubscribe"
+msgstr "Avsluta prenumeration"

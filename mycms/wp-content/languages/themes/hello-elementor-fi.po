@@ -1,0 +1,356 @@
+# Translation of Themes - Hello Elementor in Finnish
+# This file is distributed under the same license as the Themes - Hello Elementor package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-16 15:55:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: fi\n"
+"Project-Id-Version: Themes - Hello Elementor\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Hello Elementor"
+msgstr "Hello Elementor"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "A plain-vanilla & lightweight theme for Elementor page builder"
+msgstr "Alkuperäinen ja kevyt teema Elementor page builder lisäosan käyttöön"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Mene sisältöön"
+
+#: includes/settings/settings-header.php:534
+msgid "Create Header"
+msgstr "Luo otsikko"
+
+#: includes/settings/settings-header.php:532
+msgid "Create a custom header with the new Theme Builder"
+msgstr "Luo mukautettu otsake uudella teeman rakentajalla"
+
+#: includes/settings/settings-header.php:467
+msgid "Toggle Color"
+msgstr "Vaihda väri"
+
+#: includes/settings/settings-header.php:441
+msgid "None"
+msgstr "Ei mikään"
+
+#. translators: %d: Breakpoint number.
+#: includes/settings/settings-header.php:440
+msgid "Tablet (< %dpx)"
+msgstr "Tabletti (< %dpx)"
+
+#. translators: %d: Breakpoint number.
+#: includes/settings/settings-header.php:438
+msgid "Mobile (< %dpx)"
+msgstr "Mobiili (< %dpx)"
+
+#: includes/settings/settings-header.php:433
+msgid "Breakpoint"
+msgstr "Raja-arvo"
+
+#: includes/settings/settings-header.php:422
+msgid "Dropdown"
+msgstr "Pudotusvalikko"
+
+#: includes/settings/settings-header.php:421
+msgid "Horizontal"
+msgstr "Vaakasuuntainen"
+
+#: includes/settings/settings-header.php:417
+msgid "Menu Layout"
+msgstr "Valikon ulkoasu"
+
+#: includes/settings/settings-footer.php:511
+msgid "Create Footer"
+msgstr "Luo alapalkki"
+
+#: includes/settings/settings-footer.php:438
+msgid "All rights reserved"
+msgstr "Kaikki oikeudet pidätetään"
+
+#: includes/settings/settings-footer.php:396
+#: includes/settings/settings-header.php:453
+msgid "Color"
+msgstr "Väri"
+
+#: includes/settings/settings-footer.php:388
+#: includes/settings/settings-header.php:409
+msgid "Changes will be reflected in the preview only after the page reloads."
+msgstr "Muutokset näytetään esikatselussa vasta sivun uudelleenlatauksen jälkeen."
+
+#: includes/settings/settings-footer.php:380
+#: includes/settings/settings-header.php:401
+msgid "Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your menus."
+msgstr "Mene <a href=\"%s\" target=\"_blank\">Valikkonäyttöön</a> hallitaksesi valikkojasi."
+
+#: includes/settings/settings-footer.php:367
+#: includes/settings/settings-header.php:388
+msgid "Go to <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr "Mene <a href=\"%s\" target=\"_blank\">Valikkonäyttöön</a> luodaksesi yhden."
+
+#: includes/settings/settings-footer.php:367
+#: includes/settings/settings-header.php:388
+msgid "There are no menus in your site."
+msgstr "Sivustollasi ei ole valikoita."
+
+#: includes/settings/settings-footer.php:357
+#: includes/settings/settings-header.php:378
+msgid "— Select a Menu —"
+msgstr "— Valitse valikko —"
+
+#: includes/settings/settings-footer.php:263
+#: includes/settings/settings-footer.php:321
+#: includes/settings/settings-footer.php:408
+#: includes/settings/settings-footer.php:460
+#: includes/settings/settings-header.php:266
+#: includes/settings/settings-header.php:335
+#: includes/settings/settings-header.php:482
+msgid "Typography"
+msgstr "Typografia"
+
+#: includes/settings/settings-footer.php:113
+#: includes/settings/settings-header.php:99
+msgid "Width"
+msgstr "Leveys"
+
+#: includes/settings/settings-footer.php:102
+#: includes/settings/settings-header.php:88
+msgid "Centered"
+msgstr "Keskitetty"
+
+#: includes/settings/settings-footer.php:101
+#: includes/settings/settings-header.php:87
+msgid "Inverted"
+msgstr "Käänteinen"
+
+#: includes/settings/settings-footer.php:100
+#: includes/settings/settings-header.php:86
+msgid "Default"
+msgstr "Oletus"
+
+#: includes/settings/settings-footer.php:98
+#: includes/settings/settings-header.php:84
+msgid "Layout"
+msgstr "Asettelu"
+
+#: includes/settings/settings-footer.php:86
+#: includes/settings/settings-footer.php:420
+msgid "Copyright"
+msgstr "Suojattu tekijänoikeudella"
+
+#: includes/settings/settings-footer.php:74
+#: includes/settings/settings-footer.php:348
+#: includes/settings/settings-footer.php:376
+#: includes/settings/settings-header.php:73
+#: includes/settings/settings-header.php:362
+#: includes/settings/settings-header.php:397
+#: template-parts/dynamic-header.php:59
+msgid "Menu"
+msgstr "Valikko"
+
+#: includes/settings/settings-footer.php:62
+#: includes/settings/settings-footer.php:296
+#: includes/settings/settings-header.php:62
+#: includes/settings/settings-header.php:303
+msgid "Tagline"
+msgstr "Kuvaus"
+
+#: includes/settings/settings-footer.php:53
+#: includes/settings/settings-footer.php:65
+#: includes/settings/settings-footer.php:77
+#: includes/settings/settings-footer.php:89
+#: includes/settings/settings-header.php:54
+#: includes/settings/settings-header.php:65
+#: includes/settings/settings-header.php:76
+msgid "Hide"
+msgstr "Piilota"
+
+#: includes/settings/settings-footer.php:52
+#: includes/settings/settings-footer.php:64
+#: includes/settings/settings-footer.php:76
+#: includes/settings/settings-footer.php:88
+#: includes/settings/settings-header.php:53
+#: includes/settings/settings-header.php:64
+#: includes/settings/settings-header.php:75
+msgid "Show"
+msgstr "Näytä"
+
+#: includes/settings/settings-footer.php:50
+#: includes/settings/settings-footer.php:191
+#: includes/settings/settings-header.php:51
+#: includes/settings/settings-header.php:187
+msgid "Site Logo"
+msgstr "Sivuston logo"
+
+#: includes/elementor-functions.php:208
+msgid "Use this experiment to design header and footer using Elementor Site Settings. <a href=\"%s\" target=\"_blank\">Learn More</a>"
+msgstr "Käytä tätä kokeilua suunnitellaksesi alapalkin käyttäen Elementor sivustoasetuksia. <a href=\"%s\" target=\"_blank\">Lue lisää</a>"
+
+#: includes/elementor-functions.php:207
+msgid "Hello Theme Header & Footer"
+msgstr "Hello Teeman ylä- ja alapalkki"
+
+#: includes/customizer/elementor-upsell.php:86
+msgid "Start Here"
+msgstr "Aloita tästä"
+
+#: includes/settings/settings-footer.php:216
+#: includes/settings/settings-header.php:219
+msgid "Logo Width"
+msgstr "Logon leveys"
+
+#: includes/settings/settings-footer.php:206
+#: includes/settings/settings-header.php:209
+msgid "Title"
+msgstr "Otsikko"
+
+#: includes/settings/settings-footer.php:205
+#: includes/settings/settings-header.php:208
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/settings/settings-footer.php:201
+#: includes/settings/settings-header.php:204
+msgid "Type"
+msgstr "Tyyppi"
+
+#: includes/settings/settings-footer.php:179
+#: includes/settings/settings-header.php:175
+msgid "Background"
+msgstr "Tausta"
+
+#: includes/settings/settings-footer.php:153
+#: includes/settings/settings-header.php:139
+msgid "Gap"
+msgstr "Väli"
+
+#: includes/settings/settings-footer.php:127
+#: includes/settings/settings-header.php:113
+msgid "Content Width"
+msgstr "Sisällön leveys"
+
+#: includes/settings/settings-footer.php:116
+#: includes/settings/settings-header.php:102
+msgid "Full Width"
+msgstr "Täysi leveys"
+
+#: includes/settings/settings-footer.php:510
+#: includes/settings/settings-header.php:533
+msgid "With the new Theme Builder you can jump directly into each part of your site"
+msgstr "Uudella teemanrakentajalla voit siirtyä suoraan jokaiseen osaan sivustollasi"
+
+#: includes/settings/settings-footer.php:509
+msgid "Create a custom footer with the new Theme Builder"
+msgstr "Luo muokattu alapalkki uudella teemanrakentajalla "
+
+#: includes/settings/settings-footer.php:247
+#: includes/settings/settings-footer.php:306
+#: includes/settings/settings-footer.php:445
+#: includes/settings/settings-header.php:250
+#: includes/settings/settings-header.php:320
+msgid "Text Color"
+msgstr "Tekstin väri"
+
+#. translators: %s: Link that opens Elementor's "Site Identity" panel.
+#: includes/settings/settings-footer.php:219
+#: includes/settings/settings-header.php:222
+msgid "Go to <a href=\"%s\">Site Identity</a> to manage your site's logo"
+msgstr "Mene <a href=\"%s\">Sivuston identiteettiin</a> hallitaksesi sivustosi logoa"
+
+#: includes/customizer/elementor-upsell.php:75
+#: includes/customizer/elementor-upsell.php:83
+msgid "Set Your Header &amp; Footer"
+msgstr "Aseta yläpalkki &amp; alapalkki"
+
+#: includes/customizer/elementor-upsell.php:67
+#: includes/customizer/elementor-upsell.php:70
+msgid "Update Elementor"
+msgstr "Päivitä Elementor"
+
+#: includes/customizer/elementor-upsell.php:54
+msgid "Install &amp; Activate"
+msgstr "Asenna ja ota käyttöön"
+
+#: includes/customizer-functions.php:19
+msgid "Header &amp; Footer"
+msgstr "Ylä- ja alapalkki"
+
+#: functions.php:31 includes/settings/settings-footer.php:21
+#: includes/settings/settings-footer.php:42
+msgid "Footer"
+msgstr "Alapalkki"
+
+#: functions.php:30 includes/settings/settings-header.php:23
+#: includes/settings/settings-header.php:43
+msgid "Header"
+msgstr "Yläpalkki"
+
+#: includes/admin-functions.php:40 includes/customizer/elementor-upsell.php:59
+#: includes/customizer/elementor-upsell.php:62
+msgid "Activate Elementor"
+msgstr "Ota Elementor käyttöön"
+
+#: includes/admin-functions.php:49 includes/customizer/elementor-upsell.php:42
+msgid "Install Elementor"
+msgstr "Asenna Elementor"
+
+#. Translators: HTML arrow
+#: template-parts/archive.php:48 template-parts/search.php:53
+msgid "%s older"
+msgstr "%s vanhempi"
+
+#: template-parts/dynamic-footer.php:33 template-parts/dynamic-header.php:36
+#: template-parts/header.php:29
+msgid "Home"
+msgstr "Etusivu"
+
+#: template-parts/404.php:19
+msgid "It looks like nothing was found at this location."
+msgstr "Sivua ei löytynyt."
+
+#: template-parts/404.php:15
+msgid "The page can&rsquo;t be found."
+msgstr "Hups! Etsimääsi sivua ei löytynyt."
+
+#: comments.php:35
+msgctxt "comments title"
+msgid "One Response"
+msgstr "Yksi vastaus"
+
+#. translators: 1: number of comments
+#: comments.php:39
+msgctxt "comments title"
+msgid "%1$s Response"
+msgid_plural "%1$s Responses"
+msgstr[0] "%1$s vastaus"
+msgstr[1] "%1$s vastausta"
+
+#. Translators: HTML arrow
+#: template-parts/archive.php:50 template-parts/search.php:55
+msgid "newer %s"
+msgstr "uudempi %s"
+
+#: template-parts/search.php:41
+msgid "It seems we can't find what you're looking for."
+msgstr "Näyttää siltä, ettemme löydä etsimääsi."
+
+#: template-parts/search.php:16
+msgid "Search results for: "
+msgstr "Tulokset haulle:"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Elementor Team"
+msgstr "Elementor tiimi"

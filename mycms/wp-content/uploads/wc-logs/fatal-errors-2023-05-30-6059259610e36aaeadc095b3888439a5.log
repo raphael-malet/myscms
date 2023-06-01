@@ -1,0 +1,4 @@
+2023-05-30T07:33:41+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 36864 bytes) in /home/storage/vhosts/raphael-malet.students-laplateforme.io/httpdocs/mycms/wp-content/plugins/woocommerce-payments/includes/class-wc-payments.php on line 916
+
+2023-05-30T08:03:42+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/storage/vhosts/raphael-malet.students-laplateforme.io/httpdocs/mycms/wp-content/plugins/google-listings-and-ads/src/API/Site/Controllers/DisconnectController.php on line 1
+
